@@ -6,11 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
-  author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+  title: "Anvendt Kvantitativ Analyse"
+  author: 
+    - Nils Kvilvang
+  repo-url: https://github.com/nilskvilvang/AKA
   date: today
   page-footer:
     right: |
