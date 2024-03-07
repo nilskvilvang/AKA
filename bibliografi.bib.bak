@@ -1,0 +1,2259 @@
+
+@article{allaireRmarkdownDynamicDocuments2022,
+  title = {Rmarkdown: {{Dynamic Documents}} for {{R}}},
+  author = {Allaire, J. and Xie, Yihui and McPherson, J. and Luraschi, J. and Ushey, K. and Atkins, A. and Wickham, Hadley and Cheng, J. and Chang, W. and Iannone, R.},
+  year = {2022}
+}
+
+@misc{ambatipudiFlexibilityVsInterpretability2016,
+  title = {Flexibility vs. {{Interpretability}} of {{Predictive Modelling Techniques}}},
+  author = {Ambatipudi, Vamsidhar},
+  year = {2016},
+  howpublished = {https://www.linkedin.com/pulse/flexibility-vs-interpretability-predictive-modelling-ambatipudi/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\V3ZALRX9\\flexibility-vs-interpretability-predictive-modelling-ambatipudi.html}
+}
+
+@article{andersonAsymptoticTheoryCertain1952b,
+  title = {Asymptotic Theory of Certain "Goodness of Fit" Criteria Based on Stochastic Processes},
+  author = {Anderson, Theodore W. and Darling, Donald A.},
+  year = {1952},
+  journal = {The Annals of Mathematical Statistics},
+  volume = {23},
+  number = {2},
+  pages = {193--212},
+  publisher = {{JSTOR}}
+}
+
+@article{andersonScalesStatisticsParametric1961,
+  title = {Scales and Statistics: {{Parametric}} and Nonparametric.},
+  author = {Anderson, Norman H},
+  year = {1961},
+  month = jul,
+  journal = {Psychological Bulletin},
+  volume = {58},
+  number = {4},
+  pages = {305--316},
+  issn = {1939-1455},
+  doi = {10.1037/h0042576}
+}
+
+@article{andersonTestGoodnessFit1954,
+  title = {A {{Test}} of {{Goodness}} of {{Fit}}},
+  author = {Anderson, Theodore W. and Darling, D. A.},
+  year = {1954},
+  month = dec,
+  journal = {Journal of the American Statistical Association},
+  volume = {49},
+  number = {268},
+  pages = {765--765},
+  doi = {10.2307/2281537}
+}
+
+@article{andrianoCausalEffectMaternal2019,
+  title = {The {{Causal Effect}} of {{Maternal Education}} on {{Child Mortality}}: {{Evidence From}} a {{Quasi-Experiment}} in {{Malawi}} and {{Uganda}}},
+  shorttitle = {The {{Causal Effect}} of {{Maternal Education}} on {{Child Mortality}}},
+  author = {Andriano, Liliana and Monden, Christiaan W. S.},
+  year = {2019},
+  month = oct,
+  journal = {Demography},
+  volume = {56},
+  number = {5},
+  pages = {1765--1790},
+  issn = {0070-3370, 1533-7790},
+  doi = {10.1007/s13524-019-00812-3},
+  abstract = {Abstract             Since the 1980s, the demographic literature has suggested that maternal schooling plays a key role in determining children's chances of survival in low- and middle-income countries; however, few studies have successfully identified a causal relationship between maternal education and under-5 mortality. To identify such a causal effect, we exploited exogenous variation in maternal education induced by schooling reforms introducing universal primary education in the second half of the 1990s in Malawi and Uganda. Using a two-stage residual inclusion approach and combining individual-level data from Demographic and Health Surveys with district-level data on the intensity of the reform, we tested whether increased maternal schooling reduced children's probability of dying before age 5. In Malawi, for each additional year of maternal education, children have a 10 \% lower probability of dying; in Uganda, the odds of dying for children of women with one additional year of education are 16.6 \% lower. We also explored which pathways might explain this effect of maternal education. The estimates suggest that financial barriers to medical care, attitudes toward modern health services, and rejection of domestic violence may play a role. Moreover, being more educated seems to confer enhanced proximity to a health facility and knowledge about the transmission of AIDS in Malawi, and wealth and improved personal illness control in Uganda.},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\A3WVEWXV\\Andriano og Monden - 2019 - The Causal Effect of Maternal Education on Child M.pdf}
+}
+
+@article{arrindellEmpiricalTestUtility1985,
+  title = {An {{Empirical Test}} of the {{Utility}} of the {{Observations-To-Variables Ratio}} in {{Factor}} and {{Components Analysis}}},
+  author = {Arrindell, Willem A. and {van der Ende}, Jan},
+  year = {1985},
+  month = jun,
+  journal = {Applied Psychological Measurement},
+  volume = {9},
+  number = {2},
+  pages = {165--178},
+  publisher = {{SAGE Publications Inc}},
+  doi = {10.1177/014662168500900205},
+  abstract = {Many researchers have proposed a minimum ratio of observations to variables or an absolute minimum of observations in order to obtain stable factor config urations. However, hardly any empirical studies em ploying real data are available that attest to the tena bility of these proposals. A systematic analysis of the problem was undertaken, using self-report data from two large phobic samples on the Fear Survey Sched ule-III (N = 1104) and the Fear Questionnaire (N = 960). The data sets were randomly split into subsam ples with ratios varying from 1.3:1 to 19.8:1. Neither the observations to variables ratio nor an absolute minimum of observations had any influence on factor stability.}
+}
+
+@article{bakerWeakMeasurementsVs1966,
+  title = {Weak {{Measurements}} vs. {{Strong Statistics}}: {{An Empirical Critique}} of {{S}}. {{S}}. {{Stevens}}' {{Proscriptions}} on {{Statistics}}},
+  author = {Baker, Bela O and Hardyck, Curtis D and Petrinovich, Lewis F},
+  year = {1966},
+  journal = {Educational and Psychological Measurement},
+  volume = {26},
+  number = {2},
+  pages = {291--309},
+  doi = {10.1177/001316446602600204}
+}
+
+@misc{bastosExploratoryFactorAnalysis2021,
+  title = {Exploratory {{Factor Analysis}} vs {{Principal Components}}: From Concept to Application},
+  shorttitle = {Exploratory {{Factor Analysis}} vs {{Principal Components}}},
+  author = {Bastos, Rafael Valdece Sousa},
+  year = {2021},
+  month = jan,
+  journal = {Medium},
+  abstract = {How to reduce parameters with Exploratory Factor Analysis},
+  howpublished = {https://towardsdatascience.com/exploratory-factor-analysis-vs-principal-components-from-concept-to-application-b67bbbdb82c4},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\HJKAMFJN\\exploratory-factor-analysis-vs-principal-components-from-concept-to-application-b67bbbdb82c4.html}
+}
+
+@misc{beckerECLR2021,
+  title = {R - {{ECLR}}},
+  author = {Becker, Ralf and Lincoln, James},
+  year = {2021},
+  howpublished = {http://eclr.humanities.manchester.ac.uk/index.php/R\#Data\_Sets},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\7XZ7GADE\\R.html}
+}
+
+@misc{bedreMANOVAUsingExamples2018,
+  title = {{{MANOVA}} Using {{R}} (with Examples and Code)},
+  author = {Bedre, Renesh},
+  year = {2018},
+  month = oct,
+  journal = {Data science blog},
+  abstract = {A step-by-step article for performing MANOVA in R. This article describes the background of MANOVA, assumptions, hypotheses, and codes for performing MANOVA in R},
+  howpublished = {https://www.reneshbedre.com/blog/manova.html},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\8U6RI2TN\\manova.html}
+}
+
+@book{belsleyRegressionDiagnosticsIdentifying1980,
+  title = {Regression {{Diagnostics}}: {{Identifying Influential Data}} and {{Sources}} of {{Collinearity}}},
+  author = {Belsley, D. A. and Kuh, E. and Welsch, R. E.},
+  year = {1980},
+  publisher = {{John Wiley \& Sons}},
+  address = {{New York}}
+}
+
+@article{ben-shacharEffectsizeEstimationEffect2020a,
+  title = {Effectsize: {{Estimation}} of {{Effect Size Indices}} and {{Standardized Parameters}}},
+  shorttitle = {Effectsize},
+  author = {{Ben-Shachar}, Mattan and L{\"u}decke, Daniel and Makowski, Dominique},
+  year = {2020},
+  month = dec,
+  journal = {Journal of Open Source Software},
+  volume = {5},
+  number = {56},
+  pages = {2815},
+  issn = {2475-9066},
+  doi = {10.21105/joss.02815},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\PLWYRXMJ\\Ben-Shachar et al. - 2020 - effectsize Estimation of Effect Size Indices and .pdf}
+}
+
+@article{berksonApplicationLogisticFunction1944,
+  title = {Application of the {{Logistic Function}} to {{Bio-Assay}}},
+  author = {Berkson, Joseph},
+  year = {1944},
+  month = sep,
+  journal = {Journal of the American Statistical Association},
+  volume = {39},
+  number = {227},
+  pages = {357--365},
+  issn = {0162-1459, 1537-274X},
+  doi = {10.1080/01621459.1944.10500699},
+  langid = {english}
+}
+
+@book{berryUnderstandingRegressionAssumptions1993,
+  title = {Understanding Regression Assumptions},
+  author = {Berry, William D.},
+  year = {1993},
+  publisher = {{Sage Publications}},
+  address = {{Newbury Park, CA}},
+  isbn = {1-5063-1582-8}
+}
+
+@article{bertoltBeautifulCorrelationTables2008,
+  title = {Beautiful {{Correlation Tables}} in {{R}}},
+  author = {{Bertolt}},
+  year = {2008},
+  journal = {MYOWELT}
+}
+
+@incollection{bjerkanFaktoranalyse2007b,
+  title = {Faktoranalyse},
+  booktitle = {Kvantitativ Analyse Med {{SPSS}}},
+  author = {Bjerkan, Anne Mette},
+  editor = {Eikemo, Terje Andreas and H{\o}yvarde, Tommy},
+  year = {2007},
+  pages = {220--234},
+  publisher = {{Tapir Akademisk Forlag}},
+  address = {{Trondheim}}
+}
+
+@misc{boehmkeRegressionTrees2018,
+  title = {Regression {{Trees}} {$\cdot$}},
+  author = {Boehmke, Bradley},
+  year = {2018},
+  journal = {UC Business Analytics R Programming Guide},
+  howpublished = {https://uc-r.github.io/regression\_trees},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\7K6U4JZ4\\regression_trees.html}
+}
+
+@book{bowermanLinearStatisticalModels1990,
+  title = {Linear Statistical Models: {{An}} Applied Approach},
+  author = {Bowerman, Bruce L. and O'Connell, Richard T.},
+  year = {1990},
+  edition = {Second},
+  publisher = {{Duxbury}},
+  address = {{Belmont, CA}}
+}
+
+@article{boxScienceStatistics1976,
+  title = {Science and {{Statistics}}},
+  author = {Box, George E. P.},
+  year = {1976},
+  month = dec,
+  journal = {Journal of the American Statistical Association},
+  volume = {71},
+  number = {356},
+  pages = {791--799},
+  issn = {0162-1459, 1537-274X},
+  doi = {10.1080/01621459.1976.10480949},
+  langid = {english}
+}
+
+@article{breimanNoTitleFound1996,
+  title = {[{{No}} Title Found]},
+  author = {Breiman, Leo},
+  year = {1996},
+  journal = {Machine Learning},
+  volume = {24},
+  number = {2},
+  pages = {123--140},
+  issn = {08856125},
+  doi = {10.1023/A:1018054314350},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\N255GLGN\\Breiman - 1996 - [No title found].pdf}
+}
+
+@book{brownConfirmatoryFactorAnalysis2015,
+  title = {Confirmatory {{Factor Analysis}} for {{Applied Research}}},
+  author = {Brown, Timothy A.},
+  year = {2015},
+  edition = {Second},
+  publisher = {{Guilford Press}},
+  address = {{New York}}
+}
+
+@article{carifioResolving50yearDebate2008,
+  title = {Resolving the 50-Year Debate around Using and Misusing {{Likert}} Scales},
+  author = {Carifio, James and Perla, Rocco},
+  year = {2008},
+  month = dec,
+  journal = {Medical Education},
+  volume = {42},
+  number = {12},
+  pages = {1150--1152},
+  issn = {0308-0110},
+  doi = {10.1111/j.1365-2923.2008.03172.x},
+  keywords = {Medical -- Trends,Research,Summated Rating Scaling -- Evaluation}
+}
+
+@article{carifioTenCommonMisunderstandings2007,
+  title = {Ten Common Misunderstandings, Misconceptions, Persistent Myths and Urban Legends about Likert Scales and Likert Response Formats and Their Antidotes},
+  author = {Carifio, James and Perla, Rocco J.},
+  year = {2007},
+  journal = {Journal of Social Sciences},
+  volume = {3},
+  number = {3},
+  pages = {106--116},
+  issn = {1549-3652},
+  doi = {10.3844/jssp.2007.106.116},
+  abstract = {A recent article by Jamieson in Medical Education outlined some of the (alleged) abuses of ``Likert scales'' with suggestions about how researchers can overcome some of the (alleged) methodological pitfalls and limitations[1]. However, many of the ideas advanced in the Jamison article, as well as a great many of articles it cited, and similar recent articles in medical, health, psychology, and educational journals and books, are themselves common misunderstandings, misconceptions, conceptual errors, persistent myths and ``urban legends'' about ``Likert scales'' and their characteristics and qualities that have been propagated and perpetuated across six decades, for a variety of different reasons. This article identifies, analyses and traces many of these aforementioned problems and presents the arguments, counter arguments and empirical evidence that show these many persistent claims and myths about ``Likert scales'' to be factually incorrect and untrue. Many studies have shown that Likert Scales (as opposed to single Likert response format items) produce interval data and that the F-test is very robust to violations of the interval data assumption and moderate skewing and may be used to analyze ``Likert data'' (even if it is ordinal), but not on an item-by-item ``shotgun'' basis, which is simply a current research and analysis practice that must stop. After sixty years, it is more than time to dispel these particular research myths and urban legends as well as the various damage and problems they cause, and put them to bed and out of their misery once and for all.},
+  keywords = {formats,likert,measurement,psychological,scales}
+}
+
+@article{cattellScreeTestNumber1966,
+  title = {The Scree Test for the Number of Factors},
+  author = {Cattell, Raymond B.},
+  year = {1966},
+  journal = {Multivariate Behavioral Research},
+  volume = {1},
+  pages = {245--276},
+  doi = {10.1207/s15327906mbr0102_10}
+}
+
+@misc{caughlinKFoldCrossValidation2020,
+  title = {K-{{Fold Cross-Validation}} in {{R}}},
+  author = {Caughlin, David},
+  year = {2020},
+  howpublished = {https://www.youtube.com/watch?v=BQ1VAZ7jNYQ\&ab\_channel=DavidCaughlin},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\4HGFLS8J\\watch.html}
+}
+
+@article{clevelandRobustLocallyWeighted1979a,
+  title = {Robust {{Locally Weighted Regression}} and {{Smoothing Scatterplots}}},
+  author = {Cleveland, William S.},
+  year = {1979},
+  month = dec,
+  journal = {Journal of the American Statistical Association},
+  volume = {74},
+  number = {368},
+  pages = {829--836},
+  issn = {0162-1459, 1537-274X},
+  doi = {10.1080/01621459.1979.10481038},
+  langid = {english}
+}
+
+@misc{coghlanUsingMultivariateAnalysis2010,
+  title = {Using {{R}} for {{Multivariate Analysis}} \textemdash{} {{Multivariate Analysis}} 0.1 Documentation},
+  author = {Coghlan, Avril},
+  year = {2010},
+  howpublished = {https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/src/multivariateanalysis.html\#a-matrix-scatterplot},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\RVMD9456\\multivariateanalysis.html}
+}
+
+@book{cohenResearchMethodsEducation2000,
+  title = {Research {{Methods}} in {{Education}}},
+  author = {Cohen, L and Manion, L and Morrison, K},
+  year = {2000},
+  edition = {Fifth},
+  publisher = {{Routledge Falmer}},
+  address = {{London}}
+}
+
+@book{cohenStatisticalPowerAnalysis1988,
+  title = {Statistical Power Analysis for the Behavioral Sciences},
+  author = {Cohen, Jacob},
+  year = {1988},
+  edition = {Second},
+  publisher = {{Lawrence Erlbaum Associates}},
+  address = {{Hillsdale, NJ}}
+}
+
+@book{cookResidualsInfluenceRegression1982,
+  title = {Residuals and {{Influence}} in {{Regression}}},
+  author = {Cook, R. Dennis and Weisberg, Sanford},
+  year = {1982},
+  publisher = {{Chapman and Hall}},
+  address = {{New York}}
+}
+
+@book{cummingIntroductionNewStatistics2017,
+  title = {Introduction to the New Statistics: {{Estimation}}, Open Science, \& Beyond},
+  author = {Cumming, Geoff and {Calin-Jageman}, Robert},
+  year = {2017},
+  publisher = {{Routledge}},
+  address = {{New York}}
+}
+
+@book{cummingUnderstandingNewStatistics2012,
+  title = {Understanding {{The New Statistics}}. {{Effect Sizes}}, {{Confidence Intervals}}, and {{Meta-Analysis}}},
+  author = {Cumming, Geoff},
+  year = {2012},
+  publisher = {{Routledge}},
+  address = {{New York}}
+}
+
+@article{dahlumKausalitet2021,
+  title = {Kausalitet},
+  author = {Dahlum, Sirianne and Gr{\o}nmo, Sigmund},
+  year = {2021},
+  journal = {Store norske leksikon}
+}
+
+@misc{datavizHowMakeScree2020,
+  title = {How {{To Make Scree Plot}} in {{R}} with Ggplot2},
+  author = {DataViz},
+  year = {2020},
+  month = aug,
+  journal = {Data Viz with Python and R},
+  abstract = {Scree plot in PCA},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\4BSTTDH2\\how-to-make-scree-plot-in-r-with-ggplot2.html}
+}
+
+@article{davisBodyImageWeight1990a,
+  title = {Body Image and Weight Preoccupation: {{A}} Comparison between Exercising and Non-Exercising Women},
+  author = {Davis, Caroline},
+  year = {1990},
+  month = aug,
+  journal = {Appetite},
+  volume = {15},
+  number = {1},
+  pages = {13--21},
+  doi = {10.1016/0195-6663(90)90096-Q}
+}
+
+@article{davisBodyImageWeight1990b,
+  title = {Body Image and Weight Preoccupation: {{A}} Comparison between Exercising and Non-Exercising Women},
+  author = {Davis, Caroline},
+  year = {1990},
+  month = aug,
+  journal = {Appetite},
+  volume = {15},
+  number = {1},
+  pages = {13--21},
+  doi = {10.1016/0195-6663(90)90096-Q}
+}
+
+@article{decockAmesIowaAlternative2011,
+  title = {Ames, {{Iowa}}: {{Alternative}} to the {{Boston Housing Data}} as an {{End}} of {{Semester Regression Project}}},
+  shorttitle = {Ames, {{Iowa}}},
+  author = {De Cock, Dean},
+  year = {2011},
+  month = nov,
+  journal = {Journal of Statistics Education},
+  volume = {19},
+  number = {3},
+  pages = {8},
+  issn = {1069-1898},
+  doi = {10.1080/10691898.2011.11889627},
+  langid = {english}
+}
+
+@article{dejonghImpactPreselectedVariance2015,
+  title = {The Impact of Pre-Selected Variance Inflation Factor Thresholds on the Stability and Predictive Power of Logistic Regression Models in Credit Scoring},
+  author = {De Jongh, Pj and De Jongh, E and Pienaar, M and {Gordon-Grant}, H and Oberholzer, M and Santana, L},
+  year = {2015},
+  month = apr,
+  journal = {ORiON},
+  volume = {31},
+  number = {1},
+  pages = {17},
+  issn = {2224-0004},
+  doi = {10.5784/31-1-162},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\X23GLVAB\\De Jongh et al. - 2015 - The impact of pre-selected variance inflation fact.pdf}
+}
+
+@misc{deviantWelchANOVADefinition2016,
+  title = {Welch's {{ANOVA}}: {{Definition}}, {{Assumptions}}},
+  shorttitle = {Welch's {{ANOVA}}},
+  author = {Deviant, Stephanie},
+  year = {2016},
+  month = oct,
+  journal = {Statistics How To},
+  abstract = {What is Welch's ANOVA? Simple definition. How it compares with one-way ANOVA for different sample sizes and variances / designs.},
+  howpublished = {https://www.statisticshowto.com/welchs-anova/},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\SDH34GC2\\welchs-anova.html}
+}
+
+@article{dipreteGeneticInstrumentalVariable2018,
+  title = {Genetic Instrumental Variable Regression: {{Explaining}} Socioeconomic and Health Outcomes in Nonexperimental Data},
+  shorttitle = {Genetic Instrumental Variable Regression},
+  author = {DiPrete, Thomas A. and Burik, Casper A. P. and Koellinger, Philipp D.},
+  year = {2018},
+  month = may,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {115},
+  number = {22},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.1707388115},
+  abstract = {Significance             We propose genetic instrumental variable (GIV) regression\textemdash a method that controls for pleiotropic effects of genes on two variables. GIV regression is broadly applicable to study outcomes for which polygenic scores from large-scale genome-wide association studies are available. We explore the performance of GIV regression in the presence of pleiotropy across a range of scenarios and find that it yields more accurate estimates than alternative approaches such as ordinary least-squares regression or Mendelian randomization. When GIV regression is combined with proper controls for purely environmental sources of bias (e.g., using control variables and sibling fixed effects), it improves our understanding of the causal relationships between genetically correlated variables.           ,              Identifying causal effects in nonexperimental data is an enduring challenge. One proposed solution that recently gained popularity is the idea to use genes as instrumental variables [i.e., Mendelian randomization (MR)]. However, this approach is problematic because many variables of interest are genetically correlated, which implies the possibility that many genes could affect both the exposure and the outcome directly or via unobserved confounding factors. Thus, pleiotropic effects of genes are themselves a source of bias in nonexperimental data that would also undermine the ability of MR to correct for endogeneity bias from nongenetic sources. Here, we propose an alternative approach, genetic instrumental variable (GIV) regression, that provides estimates for the effect of an exposure on an outcome in the presence of pleiotropy. As a valuable byproduct, GIV regression also provides accurate estimates of the chip heritability of the outcome variable. GIV regression uses polygenic scores (PGSs) for the outcome of interest which can be constructed from genome-wide association study (GWAS) results. By splitting the GWAS sample for the outcome into nonoverlapping subsamples, we obtain multiple indicators of the outcome PGSs that can be used as instruments for each other and, in combination with other methods such as sibling fixed effects, can address endogeneity bias from both pleiotropy and the environment. In two empirical applications, we demonstrate that our approach produces reasonable estimates of the chip heritability of educational attainment (EA) and show that standard regression and MR provide upwardly biased estimates of the effect of body height on EA.},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\XILKHA97\\DiPrete et al. - 2018 - Genetic instrumental variable regression Explaini.pdf}
+}
+
+@article{dudekConfirmatoryFactorAnalysis2019,
+  title = {Confirmatory {{Factor Analysis}} with {{R}}. {{A Draft}} Document Using Lavaan, Sem, and {{OpenMx}}},
+  author = {Dudek, Bruce},
+  year = {2019}
+}
+
+@incollection{duncanSocioeconomicIndexAll1961,
+  title = {A Socioeconomic Index for All Occupations},
+  booktitle = {Occupations and Social Status},
+  author = {Duncan, Otis Dudley},
+  editor = {Reiss Jr., A. J.},
+  year = {1961},
+  pages = {109--138},
+  publisher = {{Free Press}},
+  address = {{New York}}
+}
+
+@incollection{duncanSocioeconomicIndexAll1961a,
+  title = {A Socioeconomic Index for All Occupations},
+  booktitle = {Occupations and Social Status},
+  author = {Duncan, Otis Dudley},
+  editor = {Reiss Jr., A. J.},
+  year = {1961},
+  pages = {109--138},
+  publisher = {{Free Press}},
+  address = {{New York}}
+}
+
+@article{durbinTestingSerialCorrelation1951,
+  title = {Testing for {{Serial Correlation}} in {{Least Squares Regression}}. {{II}}},
+  author = {Durbin, J. and Watson, G. S.},
+  year = {1951},
+  journal = {Biometrika},
+  volume = {38},
+  number = {1/2},
+  pages = {159--177},
+  publisher = {{[Oxford University Press, Biometrika Trust]}},
+  doi = {10.2307/2332325}
+}
+
+@book{eikemoKvantitativAnalyseMed2007,
+  title = {Kvantitativ Analyse Med {{SPSS}}. {{En}} Praktisk Innf\o ring i Kvantitative Analyseteknikker.},
+  editor = {Eikemo, Terje Andreas and Clausen, Tommy H{\o}yvarde},
+  year = {2007},
+  publisher = {{Tapir Akademisk Forlag}},
+  address = {{Trondheim}}
+}
+
+@article{el-sheikhReviewSoftwarePackages2017,
+  title = {A {{Review}} of {{Software Packages}} for {{Structural Equation Modeling}}: {{A Comparative Study}}},
+  author = {{El-Sheikh}, Ahmed A. and Abonazel, Mohamed R. and Gamil, Noha},
+  year = {2017},
+  journal = {Applied Mathematics and Physics},
+  volume = {5},
+  number = {3},
+  pages = {85--94},
+  doi = {10.12691/amp-5-3-2}
+}
+
+@article{ellisAlwaysGetConfused2010,
+  title = {I Always Get Confused about {{Type I}} and {{II}} Errors. {{Can}} You Show Me Something to Help Me Remember the Difference?},
+  author = {Ellis, Paul},
+  year = {2010},
+  journal = {Effect Size FAQs}
+}
+
+@book{ellisEffectSizeMatters2012,
+  title = {Effect {{Size Matters}}},
+  author = {Ellis, Paul D.},
+  year = {2012},
+  publisher = {{MadMethods}},
+  address = {{Birkenhead}},
+  isbn = {978-1-927230-06-0}
+}
+
+@article{fabrigarEvaluatingUseExploratory1999,
+  title = {Evaluating the Use of Exploratory Factor Analysis in Psychological Research.},
+  author = {Fabrigar, Leandre R. and Wegener, Duane T. and MacCallum, Robert C. and Strahan, Erin J.},
+  year = {1999},
+  journal = {Psychological methods},
+  volume = {4},
+  number = {3},
+  pages = {272--272},
+  publisher = {{American Psychological Association}}
+}
+
+@article{faulPowerFlexibleStatistical2007,
+  title = {G * {{Power}} 3: {{A}} Flexible Statistical Power Analysis Program for the Social , Behavioral , and Biomedical Sciences},
+  author = {Faul, Franz and Erdfelder, Edgar and Lang, Albert-Georg Georg and Buchner, Axel},
+  year = {2007},
+  journal = {Behavior Research Methods},
+  volume = {39},
+  number = {2},
+  pages = {175--191},
+  publisher = {{Springer-Verlag}},
+  issn = {1554-351X},
+  doi = {10.3758/bf03193146},
+  abstract = {G*Power (Erdfelder, Faul, \& Buchner, 1996) was designed as a general stand-alone power analysis program for statistical tests commonly used in social and behavioral research. G*Power 3 is a major extension of, and improvement over, the previous versions. It runs on widely used computer platforms (i.e., Windows XP, Windows Vista, and Mac OS X 10.4) and covers many different statistical tests of the t, F, and ?2 test families. In addition, it includes power analyses for z tests and some exact tests. G*Power 3 provides improved effect size calculators and graphic options, supports both distribution-based and design-based input modes, and offers all types of power analyses in which users might be interested. Like its predecessors, G*Power 3 is free.},
+  keywords = {*Data Interpretation,*Mathematical Computing,*Software,Algorithms,Behavioral Sciences,Behavioral Sciences: methods,Behavioral Sciences/*methods,Biomedical Research,Biomedical Research: methods,Biomedical Research/methods,Data Interpretation,Mathematical Computing,Microcomputers,Nonparametric,Sensitivity and Specificity,Social Sciences,Social Sciences: methods,Social Sciences/*methods,Software,Statistical,Statistics}
+}
+
+@article{faulStatisticalPowerAnalyses2009,
+  title = {Statistical Power Analyses Using {{G}}*{{Power}} 3.1: {{Tests}} for Correlation and Regression Analyses},
+  author = {Faul, Franz and Erdfelder, Edgar and Buchner, Axel and Lang, Albert-Georg},
+  year = {2009},
+  journal = {Behavior Research Methods},
+  volume = {41},
+  number = {4},
+  pages = {1149--1160}
+}
+
+@article{feditCentralLimitTheorem2018b,
+  title = {Central {{Limit Theorem}} \textendash{} Example Using {{R}}},
+  author = {Fedit, Ben},
+  year = {2018},
+  journal = {Ben's Blog}
+}
+
+@article{fengLogtransformationItsImplications2014,
+  title = {Log-Transformation and Its Implications for Data Analysis},
+  author = {Feng, Changyong and Wang, Hongyue and Lu, Naiji and Chen, Tian and He, Hua and Lu, Ying and Tu, Xin M.},
+  year = {2014},
+  journal = {Shanghai Archives of Psychiatry},
+  volume = {26},
+  number = {2},
+  pages = {105--109},
+  doi = {10.3969/j.issn.1002-0829.2014.02.009},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\6LUVTIPT\\Feng et al. - 2014 - Log-transformation and its implications for data a.pdf}
+}
+
+@book{fieldDiscoveringStatisticsUsing2009,
+  title = {Discovering {{Statistics Using SPSS}}},
+  author = {Field, Andy},
+  year = {2009},
+  edition = {Third},
+  publisher = {{SAGE Publications Ltd}},
+  address = {{London}}
+}
+
+@book{fieldDiscoveringStatisticsUsing2012,
+  title = {Discovering {{Statistics Using R}}},
+  author = {Field, Andy and Miles, Jeremy and Field, Zo{\"e}},
+  year = {2012},
+  publisher = {{SAGE Publications}},
+  address = {{London}}
+}
+
+@article{finchUsingFitStatistic2020,
+  title = {Using {{Fit Statistic Differences}} to {{Determine}} the {{Optimal Number}} of {{Factors}} to {{Retain}} in an {{Exploratory Factor Analysis}}},
+  author = {Finch, W. Holmes},
+  year = {2020},
+  month = apr,
+  journal = {Educational and Psychological Measurement},
+  volume = {80},
+  number = {2},
+  pages = {217--241},
+  issn = {0013-1644, 1552-3888},
+  doi = {10.1177/0013164419865769},
+  abstract = {Exploratory factor analysis (EFA) is widely used by researchers in the social sciences to characterize the latent structure underlying a set of observed indicator variables. One of the primary issues that must be resolved when conducting an EFA is determination of the number of factors to retain. There exist a large number of statistical tools designed to address this question, with none being universally optimal across applications. Recently, researchers have investigated the use of model fit indices that are commonly used in the conduct of confirmatory factor analysis to determine the number of factors to retain in EFA. These results have yielded mixed results, appearing to be effective when used in conjunction with normally distributed indicators, but not being as effective for categorical indicators. The purpose of this simulation study was to compare the performance of difference values for several fit indices as a method for identifying the optimal number of factors to retain in an EFA, with parallel analysis, which is one of the most reliable such extant methods. Results of the simulation demonstrated that the use of fit index difference values outperformed parallel analysis for categorical indicators, and for normally distributed indicators when factor loadings were small. Implications of these findings are discussed.},
+  langid = {english}
+}
+
+@misc{flemingPredictingHousingPrices,
+  title = {Predicting {{Housing Prices}} with {{Regression}}},
+  author = {Fleming, Eamon},
+  howpublished = {http://www.eamonfleming.com/projects/housing-regression.html},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\WM2AVDVL\\housing-regression.html}
+}
+
+@article{foxCarCompanionApplied2020,
+  title = {Car: {{Companion}} to {{Applied Regression}}. {{R-package}} Version 3.0-12},
+  author = {Fox, John and Weisberg, Sanford and Price, Brad and Adler, Daniel and Bates, Douglas and {Baud-Bovy}, Gabriel and Bolker, Ben and Ellison, Steve and Firth, David and Friendly, Michael and Gorjanc, Gregor and Graves, Spence and Heiberger, Richard and Krivitsky, Pavel and Laboissiere, Rafael and Maechler, Martin and Monette, Georges and Murdoch, Duncan and Nilsson, Henrik and Ogle, Derek and Ripley, Brian and Venables, William and Walker, Steve and Winsemius, David and Zeileis, Achim},
+  year = {2020}
+}
+
+@article{foxCarCompanionApplied2020a,
+  title = {Car: {{Companion}} to {{Applied Regression}}. {{R-package}} Version 3.0-12},
+  author = {Fox, John and Weisberg, Sanford and Price, Brad and Adler, Daniel and Bates, Douglas and {Baud-Bovy}, Gabriel and Bolker, Ben and Ellison, Steve and Firth, David and Friendly, Michael and Gorjanc, Gregor and Graves, Spence and Heiberger, Richard and Krivitsky, Pavel and Laboissiere, Rafael and Maechler, Martin and Monette, Georges and Murdoch, Duncan and Nilsson, Henrik and Ogle, Derek and Ripley, Brian and Venables, William and Walker, Steve and Winsemius, David and Zeileis, Achim},
+  year = {2020}
+}
+
+@book{foxCompanionAppliedRegression2019,
+  title = {An {{R Companion}} to {{Applied Regression}}},
+  author = {Fox, John and Weisberg, Sanford},
+  year = {2019},
+  edition = {Third},
+  publisher = {{SAGE}},
+  address = {{Thousand Oaks}}
+}
+
+@book{foxCompanionAppliedRegression2019a,
+  title = {An {{R Companion}} to {{Applied Regression}}},
+  author = {Fox, John and Weisberg, Sanford},
+  year = {2019},
+  edition = {Third},
+  publisher = {{SAGE}},
+  address = {{Thousand Oaks}}
+}
+
+@book{foxRegressionDiagnosticsIntroduction2020,
+  title = {Regression {{Diagnostics}}: {{An Introduction}}.},
+  author = {Fox, John},
+  year = {2020},
+  edition = {Second},
+  publisher = {{Sage}},
+  address = {{Los Angeles}}
+}
+
+@article{franeArePerFamilyType2015,
+  title = {Are {{Per-Family Type I Error Rates Relevant}} in {{Social}} and {{Behavioral Science}}?},
+  author = {Frane, Andrew V},
+  year = {2015},
+  month = may,
+  journal = {Journal of Modern Applied Statistical Methods},
+  volume = {14},
+  number = {1},
+  pages = {12--23},
+  issn = {1538-9472},
+  doi = {10.22237/jmasm/1430453040},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\L8CT7NB2\\Frane - 2015 - Are Per-Family Type I Error Rates Relevant in Soci.pdf}
+}
+
+@article{froslieKorrelasjon2022,
+  title = {Korrelasjon},
+  author = {Fr{\o}slie, Kathrine Frey},
+  year = {2022},
+  journal = {Store norske leksikon}
+}
+
+@article{frostHowInterpretAdjusted2022,
+  title = {How to {{Interpret Adjusted R-Squared}} and {{Predicted R-Squared}} in {{Regression Analysis}}},
+  author = {Frost, Jim},
+  year = {2022},
+  journal = {Statistics By Jim}
+}
+
+@article{gaitoMeasurementScalesStatistics1980,
+  title = {Measurement Scales and Statistics: {{Resurgence}} of an Old Misconception.},
+  author = {Gaito, John},
+  year = {1980},
+  journal = {Psychological Bulletin},
+  volume = {87},
+  number = {3},
+  pages = {564--567},
+  issn = {1939-1455},
+  doi = {10.1037/0033-2909.87.3.564}
+}
+
+@article{gaitoNonParametricMethodsPsychological1959,
+  title = {Non-{{Parametric Methods}} in {{Psychological Research}}},
+  author = {Gaito, John},
+  year = {1959},
+  journal = {Psychological Reports},
+  volume = {5},
+  number = {1},
+  pages = {115--125},
+  issn = {0031-5125}
+}
+
+@article{gaitoScaleClassificationStatistics1960,
+  title = {Scale Classification and Statistics.},
+  author = {Gaito, John},
+  year = {1960},
+  journal = {Psychological Review},
+  volume = {67},
+  number = {4},
+  pages = {277--278},
+  issn = {1939-1471},
+  doi = {10.1037/h0043043}
+}
+
+@article{galarnykUnderstandingBoxplots2018,
+  title = {Understanding {{Boxplots}}},
+  author = {Galarnyk, Michael},
+  year = {2018},
+  journal = {Towards Data Science}
+}
+
+@article{galianiEffectAidGrowth2017,
+  title = {The Effect of Aid on Growth: Evidence from a {{Quasi-experiment}}},
+  shorttitle = {The Effect of Aid on Growth},
+  author = {Galiani, Sebastian and Knack, Stephen and Xu, Lixin Colin and Zou, Ben},
+  year = {2017},
+  month = mar,
+  journal = {Journal of Economic Growth},
+  volume = {22},
+  number = {1},
+  pages = {1--33},
+  issn = {1381-4338, 1573-7020},
+  doi = {10.1007/s10887-016-9137-4},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\TDS4VQBE\\Galiani et al. - 2017 - The effect of aid on growth evidence from a Quasi.pdf}
+}
+
+@article{gardnerScalesStatistics1975,
+  title = {Scales and {{Statistics}}},
+  author = {Gardner, Paul Leslie},
+  year = {1975},
+  journal = {Review of Educational Research},
+  volume = {45},
+  number = {1},
+  pages = {43--57},
+  publisher = {{American Educational Research Association}},
+  issn = {00346543},
+  doi = {10.2307/1170022}
+}
+
+@article{gignacEffectSizeGuidelines2016,
+  title = {Effect Size Guidelines for Individual Differences Researchers},
+  author = {Gignac, Gilles E. and Szodorai, Eva T.},
+  year = {2016},
+  month = nov,
+  journal = {Personality and Individual Differences},
+  volume = {102},
+  pages = {74--78},
+  issn = {01918869},
+  doi = {10.1016/j.paid.2016.06.069},
+  langid = {english}
+}
+
+@article{glassConsequencesFailureMeet1972,
+  title = {Consequences of {{Failure To Meet Assumptions Underlying}} the {{Fixed Effects Analyses}} of {{Variance}} and {{Covariance}}},
+  author = {Glass, Gene V and Peckham, Percy D and Sanders, James R},
+  year = {1972},
+  journal = {Review of Educational Research},
+  volume = {42},
+  number = {3},
+  pages = {237--288},
+  issn = {0034-6543},
+  doi = {10.3102/00346543042003237},
+  abstract = {JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.}
+}
+
+@book{gleitmanPsychology2011,
+  title = {Psychology},
+  author = {Gleitman, Henry and Gross, James and Reisberg, Daniel},
+  year = {2011},
+  edition = {Eighth},
+  publisher = {{W.W.Norton \& Company}},
+  address = {{New York}}
+}
+
+@misc{glenLogOddsSimple2021,
+  title = {Log {{Odds}}: {{Simple Definition}} \& {{Examples}}, {{Conversions}}},
+  shorttitle = {Log {{Odds}}},
+  author = {Glen, Stephanie},
+  year = {2021},
+  month = apr,
+  journal = {Statistics How To},
+  howpublished = {https://www.statisticshowto.com/log-odds/},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\KNYQ4TPY\\log-odds.html}
+}
+
+@article{greenHowManySubjects1991,
+  title = {How {{Many Subjects Does It Take To Do A Regression Analysis}}},
+  author = {Green, Samuel B.},
+  year = {1991},
+  month = jul,
+  journal = {Multivariate Behavioral Research},
+  volume = {26},
+  number = {3},
+  pages = {499--510},
+  publisher = {{Routledge}},
+  doi = {10.1207/s15327906mbr2603_7},
+  abstract = {Numerous rules-of-thumb have been suggested for determining the minimum number of subjects required to conduct multiple regression analyses. These rules-of-thumb are evaluated by comparing their results against those based on power analyses for tests of hypotheses of multiple and partial correlations. The results did not support the use of rules-of-thumb that simply specify some constant (e.g., 100 subjects) as the minimum number of subjects or a minimum ratio of number of subjects (N) to number of predictors (m). Some support was obtained for a rule-of-thumb that N {$\geq$} 50 + 8 m for the multiple correlation and N {$\geq$}104 + m for the partial correlation. However, the rule-of-thumb for the multiple correlation yields values too large for N when m {$\geq$} 7, and both rules-of-thumb assume all studies have a medium-size relationship between criterion and predictors. Accordingly, a slightly more complex rule-of thumb is introduced that estimates minimum sample size as function of effect size as well as the number of predictors. It is argued that researchers should use methods to determine sample size that incorporate effect size.}
+}
+
+@book{gronmoSamfunnsvitenskapeligeMetoder2016,
+  title = {Samfunnsvitenskapelige Metoder},
+  author = {Gr{\o}nmo, Sigmund},
+  year = {2016},
+  edition = {Second},
+  publisher = {{Fagbokforlaget}},
+  address = {{Bergen}},
+  isbn = {978-82-450-1818-9}
+}
+
+@article{gronmoUtvalg2021,
+  title = {Utvalg},
+  author = {Gr{\o}nmo, Sigmund},
+  year = {2021},
+  journal = {Store norske leksikon}
+}
+
+@article{guadagnoliRelationSampleSize1988,
+  title = {Relation of {{Sample Size}} to the {{Stability}} of {{Component Patterns}}.},
+  author = {Guadagnoli, Edward and Velicer, Wayne F.},
+  year = {1988},
+  journal = {Psychological Bulletin},
+  volume = {103},
+  number = {2},
+  pages = {265--275},
+  publisher = {{American Psychological Association}}
+}
+
+@article{hadiModificationMethodDetection1994,
+  title = {A {{Modification}} of a {{Method}} for the {{Detection}} of {{Outliers}} in {{Multivariate Samples}}},
+  author = {Hadi, Ali S.},
+  year = {1994},
+  month = jul,
+  journal = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  volume = {56},
+  number = {2},
+  pages = {393--396},
+  issn = {00359246},
+  doi = {10.1111/j.2517-6161.1994.tb01988.x},
+  langid = {english}
+}
+
+@article{hadiNewMeasureOverall1992,
+  title = {A New Measure of Overall Potential Influence in Linear Regression},
+  author = {Hadi, Ali S.},
+  year = {1992},
+  month = jun,
+  journal = {Computational Statistics \& Data Analysis},
+  volume = {14},
+  number = {1},
+  pages = {1--27},
+  issn = {01679473},
+  doi = {10.1016/0167-9473(92)90078-T},
+  langid = {english}
+}
+
+@book{hairjr.MultivariateDataAnalysis2010,
+  title = {Multivariate {{Data Analysis}}: {{A Global Perspective}}},
+  author = {Hair Jr., Joseph H. and Black, William C. and Babin, Barry J. and Anderson, Rolph E.},
+  year = {2010},
+  edition = {Seventh},
+  publisher = {{Pearson}},
+  address = {{Upper Saddle River, NJ}}
+}
+
+@book{hammervoldKortInnforingSPSS2017,
+  title = {En Kort Innf\o ring i {{SPSS}}. {{Anvendelser}} Innen Multivariat Statistikk.},
+  author = {Hammervold, Randi},
+  year = {2017},
+  publisher = {{Fagbokfolaget}},
+  address = {{Bergen}}
+}
+
+@article{handStatisticsTheoryMeasurement1996,
+  title = {Statistics and the {{Theory}} of {{Measurement}}},
+  author = {Hand, D. J.},
+  year = {1996},
+  journal = {Journal of the Royal Statistical Society. Series A (Statistics in Society)},
+  volume = {159},
+  number = {3},
+  pages = {445--445},
+  publisher = {{Wiley for the Royal Statistical Society}},
+  issn = {09641998},
+  doi = {10.2307/2983326},
+  abstract = {Just as there are different interpretations of probability, leading to different kinds of inferential statements and different conclusions about statistical models and questions, so there are different theories of measurement, which in turn may lead to different kinds of statistical model and possibly different conclusions. This has led to much confusion and a long running debate about when different classes of statistical methods may legitimately be applied. This paper outlines the major theories of measurement and their relationships and describes the different kinds of models and hypotheses which may be formulated within each theory. One general conclusion is that the domains of applicability of the two major theories are typically different, and it is this which helps apparent contradictions to be avoided in most practical applications.}
+}
+
+@article{harrisonHedonicHousingPrices1978,
+  title = {Hedonic Housing Prices and the Demand for Clean Air},
+  author = {Harrison, David and Rubinfeld, Daniel L},
+  year = {1978},
+  month = mar,
+  journal = {Journal of Environmental Economics and Management},
+  volume = {5},
+  number = {1},
+  pages = {81--102},
+  issn = {00950696},
+  doi = {10.1016/0095-0696(78)90006-2},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\YJ699JUX\\Harrison og Rubinfeld - 1978 - Hedonic housing prices and the demand for clean ai.pdf}
+}
+
+@book{harrisPrimerMultivariateStatistics2013,
+  title = {A {{Primer}} of {{Multivariate Statistics}}},
+  author = {Harris, Richard J.},
+  year = {2013},
+  edition = {Third},
+  publisher = {{Psychology Press}},
+  address = {{New York}}
+}
+
+@article{hartmannELearningProjectSOGA2018,
+  title = {E-{{Learning Project SOGA}}: {{Statistics}} and {{Geospatial Data Analysis}}},
+  author = {Hartmann, K. and Krois, J. and Waske, B.},
+  year = {2018},
+  publisher = {{Department of Earth Sciences, Freie Universit\"at}},
+  address = {{Berlin}}
+}
+
+@book{heermanReadingsStatisticsBehavioural1970,
+  title = {Readings in Statistics for the Behavioural Sciences},
+  author = {Heerman, E F and Braskamp, L A},
+  year = {1970},
+  publisher = {{Prentice-Hall}},
+  address = {{Englewood Cliffs}}
+}
+
+@article{hendersonBuildingMultipleRegression1981,
+  title = {Building Multiple Regression Models Interactively},
+  author = {Henderson, Harold V. and Velleman, Paul F.},
+  year = {1981},
+  journal = {Biometrics},
+  pages = {391--411},
+  publisher = {{JSTOR}}
+}
+
+@book{hinkleAppliedStatisticsBehavioral2003,
+  title = {Applied Statistics for the Behavioral Sciences},
+  author = {Hinkle, Dennis E and Wiersma, William and Jurs, Stephen G},
+  year = {2003},
+  edition = {Fifth},
+  publisher = {{Wadsworth, Cengagae Learning}},
+  address = {{Belmont, CA}}
+}
+
+@book{hinkleAppliedStatisticsBehavioral2003a,
+  title = {Applied Statistics for the Behavioral Sciences},
+  author = {Hinkle, Dennis E and Wiersma, William and Jurs, Stephen G},
+  year = {2003},
+  edition = {Fifth},
+  publisher = {{Wadsworth, Cengagae Learning}},
+  address = {{Belmont, CA}}
+}
+
+@article{hoenigAbusePowerPervasive2001,
+  title = {The {{Abuse}} of {{Power}}: {{The Pervasive Fallacy}} of {{Power Calculations}} for {{Data Analysis}}},
+  author = {Hoenig, John M. and Heisey, Dennis M.},
+  year = {2001},
+  journal = {The American Statistician},
+  volume = {55},
+  number = {1},
+  pages = {19--24},
+  issn = {0003-1305},
+  doi = {10.1198/000313001300339897},
+  keywords = {bioequivalence testing}
+}
+
+@article{hogartyQualityFactorSolutions2005,
+  title = {The Quality of Factor Solutions in Exploratory Factor Analysis: {{The}} Influence of Sample Size, Communality, and Overdetermination},
+  author = {Hogarty, Kristine Y. and Hines, Constance V. and Kromrey, Jeffrey D. and Ferron, John M. and Mumford, Karen R.},
+  year = {2005},
+  journal = {Educational and Psychological Measurement},
+  volume = {65},
+  number = {2},
+  pages = {202--226},
+  publisher = {{Sage Publications Sage CA: Thousand Oaks, CA}}
+}
+
+@article{hornRationaleTestNumber1965,
+  title = {A Rationale and Test for the Number of Factors in Factor Analysis},
+  author = {Horn, John L.},
+  year = {1965},
+  journal = {Psychometrika},
+  volume = {30},
+  number = {2},
+  pages = {179--185},
+  doi = {10.1007/BF02289447},
+  abstract = {It is suggested that if Guttman's latent-root-one lower bound estimate for the rank of a correlation matrix is accepted as a psychometric upper bound, following the proofs and arguments of Kaiser and Dickman, then the rank for a sample matrix should be estimated by subtracting out the component in the latent roots which can be attributed to sampling error, and least-squares ``capitalization'' on this error, in the calculation of the correlations and the roots. A procedure based on the generation of random variables is given for estimating the component which needs to be subtracted.}
+}
+
+@incollection{hoyleConfirmatoryFactorAnalysis2000,
+  title = {Confirmatory {{Factor Analysis}}},
+  booktitle = {Handbook of {{Applied Multivariate Statistics}} and {{Mathematical Modeling}}},
+  author = {Hoyle, Rick H.},
+  editor = {Tinsley, Howard E A and Brown, Steven D B T - Handbook of Applied Multivariate Statistics {and} Mathematical Modeling},
+  year = {2000},
+  volume = {3},
+  pages = {465--497},
+  publisher = {{Academic Press}},
+  address = {{San Diego}},
+  doi = {10.1016/B978-012691360-6/50017-3},
+  abstract = {Publisher Summary Confirmatory factor analysis (CFA) is a statistical strategy specifically designed to identify and explore hypothetical constructs as manifest in fallible indicators. The allure of CFA over other approaches to the study of hypothetical constructs is the capacity for testing detailed hypotheses in a deductive mode. Moreover, CFA models can be incorporated directly into general structural equation modeling (SEM) that includes directional relations among hypothetical constructs. It is noted that the central concern of CFA is modeling factors, sometimes referred to as latent variables. Factors are influences that are not directly measured, but account for commonality among a set of measurements. Recent developments in technical aspects of estimation and testing coupled with widely accessible and user-friendly software have rendered CFA more popular and appealing than ever. However, with the increased accessibility of CFA comes a responsibility to understand the conditions under which CFA is appropriately applied and the factors relevant to interpretation of CFA results.},
+  isbn = {978-0-12-691360-6}
+}
+
+@misc{https://cran.r-project.orgMeasuresInfluence2022,
+  title = {Measures of {{Influence}}},
+  author = {{https://cran.r-project.org}},
+  year = {2022},
+  abstract = {It is possible for a single observation to have a great influence on the results of a regression analysis. It is therefore important to detect influential observations and to take them into consideration when interpreting the results.}
+}
+
+@book{huberRobustStatistics1981,
+  title = {Robust {{Statistics}}},
+  author = {Huber, P. J.},
+  year = {1981},
+  publisher = {{Wiley}},
+  address = {{New York}}
+}
+
+@article{huCutoffCriteriaFit1999,
+  title = {Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: {{Conventional}} Criteria versus New Alternatives},
+  shorttitle = {Cutoff Criteria for Fit Indexes in Covariance Structure Analysis},
+  author = {Hu, Li-tze and Bentler, Peter M.},
+  year = {1999},
+  month = jan,
+  journal = {Structural Equation Modeling: A Multidisciplinary Journal},
+  volume = {6},
+  number = {1},
+  pages = {1--55},
+  issn = {1070-5511, 1532-8007},
+  doi = {10.1080/10705519909540118},
+  langid = {english}
+}
+
+@article{hurleyExploratoryConfirmatoryFactor1997,
+  title = {Exploratory and Confirmatory Factor Analysis: Guidelines, Issues, and Alternatives},
+  author = {Hurley, Amy E. and Scandura, Terri A. and Schriesheim, Chester A. and Brannick, Michael T. and Seers, Anson and Vandenberg, Robert J. and Williams, Larry J.},
+  year = {1997},
+  month = nov,
+  journal = {Journal of Organizational Behavior},
+  volume = {18},
+  number = {6},
+  pages = {667--683},
+  doi = {10.1002/(SICI)1099-1379(199711)18:6<667::AID-JOB874>3.0.CO;2-T}
+}
+
+@article{jamiesonLikertScalesHow2004,
+  title = {Likert Scales: How to (Ab)Use Them},
+  author = {Jamieson, Susan},
+  year = {2004},
+  month = dec,
+  journal = {Medical Education},
+  volume = {38},
+  number = {12},
+  pages = {1217--1218},
+  issn = {0308-0110},
+  doi = {10.1111/j.1365-2929.2004.02012.x},
+  keywords = {attitudes,science,students}
+}
+
+@article{johnstonConfoundingCollinearityRegression2018,
+  title = {Confounding and Collinearity in Regression Analysis: A Cautionary Tale and an Alternative Procedure, Illustrated by Studies of {{British}} Voting Behaviour},
+  shorttitle = {Confounding and Collinearity in Regression Analysis},
+  author = {Johnston, Ron and Jones, Kelvyn and Manley, David},
+  year = {2018},
+  month = jul,
+  journal = {Quality \& Quantity},
+  volume = {52},
+  number = {4},
+  pages = {1957--1976},
+  issn = {0033-5177, 1573-7845},
+  doi = {10.1007/s11135-017-0584-6},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\QCVPWACM\\Johnston et al. - 2018 - Confounding and collinearity in regression analysi.pdf}
+}
+
+@misc{johnstonQuickEasyFunction2012,
+  title = {A Quick and Easy Function to Plot Lm() Results with Ggplot2 in {{R}}},
+  author = {Johnston, Susan},
+  year = {2012},
+  month = aug,
+  journal = {Johnston Lab},
+  abstract = {Updated Apr 2015: Sometimes it's nice to quickly visualise the data that went into a simple linear regression, especially when you are performing lots of tests at once. Here is a quick and dir\ldots},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\93HXQF4Z\\a-quick-and-easy-function-to-plot-lm-results-in-r.html}
+}
+
+@article{joreskogFactorAnalysisMINRES2003,
+  title = {Factor {{Analysis}} by {{MINRES}}},
+  author = {J{\"o}reskog, Karl G.},
+  year = {2003}
+}
+
+@article{joreskogGeneralApproachConfirmatory1969,
+  title = {A General Approach to Confirmatory Maximum Likelihood Factor Analysis},
+  author = {J{\"o}reskog, Karl G.},
+  year = {1969},
+  month = jun,
+  journal = {Psychometrika},
+  volume = {34},
+  number = {2},
+  pages = {183--202},
+  issn = {0033-3123, 1860-0980},
+  doi = {10.1007/BF02289343},
+  langid = {english}
+}
+
+@article{joreskogGeneralMethodAnalysis1970,
+  title = {A General Method for Analysis of Covariance Structures},
+  author = {J{\"o}reskog, Karl G.},
+  year = {1970},
+  journal = {Biometrika},
+  volume = {57},
+  number = {2},
+  pages = {239--251},
+  issn = {0006-3444, 1464-3510},
+  doi = {10.1093/biomet/57.2.239},
+  langid = {english}
+}
+
+@article{joreskogGeneralMethodEstimating1970,
+  title = {A {{General Method}} for {{Estimating}} a {{Linear Structural Equation System}}},
+  author = {J{\"o}reskog, Karl G.},
+  year = {1970},
+  journal = {Educational Testing Service}
+}
+
+@book{joreskogkarlg.MultivariateAnalysisLISREL2016,
+  title = {Multivariate {{Analysis}} with {{LISREL}}},
+  author = {J{\"o}reskog, Karl G. and Olsson, Ulf H. and Wallentin, Fan Y.},
+  year = {2016},
+  series = {Springer {{Series}} in {{Statistics}}},
+  publisher = {{Springer}}
+}
+
+@article{joreskogStructuralAnalysisCovariance1978,
+  title = {Structural Analysis of Covariance and Correlation Matrices},
+  author = {J{\"o}reskog, Karl G.},
+  year = {1978},
+  month = dec,
+  journal = {Psychometrika},
+  volume = {43},
+  number = {4},
+  pages = {443--477},
+  issn = {0033-3123, 1860-0980},
+  doi = {10.1007/BF02293808},
+  langid = {english}
+}
+
+@article{kahlerParametricAnalysisOrdinal2008,
+  title = {A Parametric Analysis of Ordinal Quality-of-Life Data Can Lead to Erroneous Results},
+  author = {Kahler, Elke and Rogausch, Anja and Brunner, Edgar and Himmel, Wolfgang},
+  year = {2008},
+  month = may,
+  journal = {Journal of Clinical Epidemiology},
+  volume = {61},
+  number = {5},
+  pages = {475--480},
+  issn = {0895-4356},
+  doi = {10.1016/j.jclinepi.2007.05.019},
+  abstract = {Objective Measurements from health-related quality-of-life (HRQoL) studies, although usually of an ordered categorical nature, are typically treated as continuous variables, allowing the calculation of mean values and the administration of parametric statistics, such as t-tests. We investigated whether parametric, compared to nonparametric, analyses of ordered categorical data may lead to different conclusions. Study Design and Setting HRQoL data were obtained from patients with a diagnosis of asthma (n = 192) and chronic obstructive pulmonary disease (COPD; n = 88) at two time points. The impact of the group factor (asthma vs. COPD) and the time factor (t1 vs. t2) on HRQoL was analyzed with a metric approach (repeated measures ANOVA) and two ordinal approaches (each with a nonparametric repeated measures ANOVA). Results Using the metric approach, a significant effect of ``group'' (P = 0.0061) and ``time'' (P = 0.0049) on HRQoL was found. The first ordinal approach (ranked total score) still showed a significant effect for ``group'' (P = 0.0033) with a worse HRQoL for patients suffering from COPD. In the second approach (ranks for each HRQoL item and summed ranks), there were no significant effects. Conclusion Applying simple parametric methods to ordered categorical HRQoL scores led to different results from those obtained with nonparametric methods. In these cases, an ordinal approach will prevent inappropriate conclusions.},
+  keywords = {Comparative study,Data interpretation,Methods,Nonparametric statistics,Psychometrics,Quality of life}
+}
+
+@article{kaiserApplicationElectronicComputers1960,
+  title = {The Application of Electronic Computers to Factor Analysis},
+  author = {Kaiser, Henry F.},
+  year = {1960},
+  journal = {Educational and Psychological Measurement},
+  volume = {20},
+  pages = {141--151}
+}
+
+@article{kaiserIndexFactorialSimplicity1974,
+  title = {An {{Index}} of {{Factorial Simplicity}}},
+  author = {Kaiser, Henry F.},
+  year = {1974},
+  journal = {Psychometrika},
+  volume = {39},
+  number = {1},
+  pages = {31--36},
+  doi = {10.1007/BF02291575},
+  abstract = {An index of factorial simplicity, employing the quartimax transformational criteria of Carroll, Wrigley and Neuhaus, and Saunders, is developed. This index is both for each row separately and for a factor pattern matrix as a whole. The index varies between zero and one. The problem of calibrating the index is discussed.}
+}
+
+@misc{karadimitriouRepeatedMeasuresWithinsubjects,
+  title = {Repeated Measures (within-Subjects) {{ANOVA}} in {{R}}},
+  author = {Karadimitriou, Sofia Maria},
+  journal = {https://www.statstutor.ac.uk/},
+  howpublished = {https://www.statstutor.ac.uk/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\QA5QIGFL\\www.statstutor.ac.uk.html}
+}
+
+@article{kempthorneRandomizationTheoryExperimental1955,
+  title = {The {{Randomization Theory}} of {{Experimental Inference}}},
+  author = {Kempthorne, Oscar},
+  year = {1955},
+  journal = {Journal of the American Statistical Association},
+  volume = {50},
+  number = {271},
+  pages = {946--967},
+  publisher = {{Taylor \& Francis, Ltd. on behalf of the American Statistical Association}},
+  issn = {01621459},
+  doi = {10.2307/2281178},
+  abstract = {The paper contains a description of the extent to which the use of randomization in experimental designs permits evaluation of the experimental results. The case considered is that in which the whole population of treatments is used with particular experimental material. A completely general mathematical specification of the design is given and the procedure by which linear models for the experimental results are derived is exemplified by the cases of the completely randomized design, randomized blocks, Latin squares, and a particular systematic design. The case of the completely randomized design is discussed extensively. An assessment of the present state of randomization theory is given, with a statement of major deficiencies.},
+  keywords = {asymptotic approximation,exchangeable arrays,generalized linear mixed models,high-dimensional integrals}
+}
+
+@article{kennairFemfaktormodellen2021,
+  title = {{femfaktormodellen}},
+  author = {Kennair, Leif Edward Ottesen},
+  year = {2021},
+  month = may,
+  journal = {Store norske leksikon},
+  abstract = {Femfaktormodellen er en av flere trekkpsykologiske tiln\ae rminger innen personlighetspsykologien. Femfaktormodellen er den ledende moderne vitenskapelige tiln\ae rmingen, da den beskriver empirisk fem store personlighetstrekk, som beskriver variasjonen i menneskets personlighet. De fem faktorene eller store personlighetstrekkene er: \aa penhet planmessighet ekstroversjon omgjengelighet nevrotisisme Hver av disse fem trekkene best\aa r s\aa{} av seks underordnede, delvis samvarierende og delvis uavhengige fasetter.},
+  copyright = {fri},
+  langid = {norwegianbokmal},
+  keywords = {Personlighetspsykologi},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\V726XIIB\\femfaktormodellen.html}
+}
+
+@misc{khandelwalQuickEasyExplanation2020,
+  title = {Quick and {{Easy Explanation}} of {{Logistics Regression}}},
+  author = {Khandelwal, Renu},
+  year = {2020},
+  month = apr,
+  journal = {Medium},
+  abstract = {A simple explanation of Logistics Regression, why we need it, how to evaluate its performance and build a multi-class classification using\ldots},
+  howpublished = {https://towardsdatascience.com/quick-and-easy-explanation-of-logistics-regression-709df5cc3f1e},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\SSYHIDKF\\quick-and-easy-explanation-of-logistics-regression-709df5cc3f1e.html}
+}
+
+@article{kirkPracticalSignificanceConcept1996,
+  title = {Practical {{Significance}}: {{A Concept Whose Time Has Come}}},
+  author = {Kirk, Roger E.},
+  year = {1996},
+  month = oct,
+  journal = {Educational and Psychological Measurement},
+  volume = {56},
+  number = {5},
+  pages = {746--759},
+  publisher = {{SAGE Publications Inc}},
+  doi = {10.1177/0013164496056005002},
+  abstract = {Statistical significance is concerned with whether a research result is due to chance or sampling variability; practical significance is concerned with whether the result is useful in the real world. A growing awareness of the limitations of null hypothesis significance tests has led to a search for ways to supplement these procedures. A variety of supplementary measures of effect magnitude have been proposed. The use of these procedures in four APA journals is examined, and an approach to assessing the practical significance of data is described.}
+}
+
+@book{klinePrinciplesPracticeStructural2016,
+  title = {Principles and Practice of Structural Equation Modeling},
+  author = {Kline, R. B.},
+  year = {2016},
+  edition = {Fourth},
+  publisher = {{Guilford publications}}
+}
+
+@article{knappTreatingOrdinalScales1990,
+  title = {Treating {{Ordinal Scales}} as {{Interval Scales}} - an {{Attempt}} to {{Resolve}} the {{Controversy}}},
+  author = {Knapp, T R},
+  year = {1990},
+  journal = {Nursing Research},
+  volume = {39},
+  number = {2},
+  pages = {121--123},
+  issn = {0029-6562}
+}
+
+@article{kristensenAvhengigeMalefeilObservasjonsstudier2005,
+  title = {Avhengige M\aa lefeil i Observasjonsstudier},
+  author = {Kristensen, Petter},
+  year = {2005},
+  journal = {Tidsskr Nor L\ae geforen},
+  volume = {125},
+  pages = {173175--173175}
+}
+
+@book{kuhnAppliedPredicitveModelling2013,
+  title = {Applied {{Predicitve Modelling}}},
+  author = {Kuhn, Max and Johnson, Kjell},
+  year = {2013},
+  publisher = {{Springer}},
+  address = {{New York}}
+}
+
+@book{kuhnTidyModeling2022,
+  title = {Tidy {{Modeling}} with {{R}}},
+  author = {Kuhn, Max and Silge, Julia},
+  year = {2022},
+  edition = {0.0.1.9010},
+  abstract = {The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. This book provides a thorough introduction to how to use tidymodels, and an outline of good methodology and statistical practice for phases of the modeling process.},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\PU558MWA\\www.tmwr.org.html}
+}
+
+@article{labovitzObservationsMeasurementStatistics1967,
+  title = {Some {{Observations}} on {{Measurement}} and {{Statistics}}},
+  author = {Labovitz, Sanford},
+  year = {1967},
+  journal = {Social Forces},
+  volume = {46},
+  number = {2},
+  pages = {151--160},
+  publisher = {{Oxford University Press}},
+  issn = {00377732},
+  doi = {10.2307/2574595},
+  abstract = {Several arguments are presented supporting the more extensive use of parametric statistics. These arguments are concerned with (1) the insensitivity of ordinal and other nonparametric techniques, (2) the small error that results from assigning numbers to ordinal data and then treating the categories as if they conform to an interval scale, (3) tests of statistical robustness, and (4) the power-efficiency of tests. The utility of assigning numbers or scoring systems to ordinal data and then using intervally-based statistics is supported in several ways. In addition, it is demonstrated that the linear scoring system results in a small amount of error no matter what the "true" scoring system may be. However, the assignment of any scoring system must be consistent with the monotonic function.}
+}
+
+@book{lenhardCalculationEffectSizes2016,
+  title = {Calculation of {{Effect Sizes}}},
+  author = {Lenhard, Wolfgang and Lenhard, Alexandra},
+  year = {2016},
+  series = {Psychometrica},
+  address = {{Dettelbach}},
+  doi = {10.13140/RG.2.1.3478.4245}
+}
+
+@misc{lenhardComputationEffectSizes2017,
+  title = {Computation of {{Effect Sizes}}},
+  author = {Lenhard, Wolfgang and Lenhard, Alexandra},
+  year = {2017},
+  publisher = {{Unpublished}},
+  doi = {10.13140/RG.2.2.17823.92329},
+  langid = {english}
+}
+
+@article{likertTechniqueMeasurementAttitudes1932,
+  title = {A Technique for the Measurement of Attitudes},
+  author = {Likert, R},
+  year = {1932},
+  journal = {Archives of Psychology},
+  volume = {22 140},
+  pages = {55--55},
+  abstract = {The project conceived in 1929 by Gardner Murphy and the writer aimed first to present a wide array of problems having to do with five major "attitude areas"\textemdash international relations, race relations, economic conflict, political conflict, and religion. The kind of questionnaire material falls into four classes: yes-no, multiple choice, propositions to be responded to by degrees of approval, and a series of brief newspaper narratives to be approved or disapproved in various degrees. The monograph aims to describe a technique rather than to give results. The appendix, covering ten pages, shows the method of constructing an attitude scale. A bibliography is also given. (PsycINFO Database Record (c) 2012 APA, all rights reserved)}
+}
+
+@misc{linConfirmatoryFactorAnalysis2021,
+  type = {{{UCLA}}: {{Statistical Consulting Group}}},
+  title = {Confirmatory {{Factor Analysis}} in {{R}} with Lavaan},
+  author = {Lin, Johnny},
+  year = {2021},
+  journal = {UCLA Office of Advanced Research Computing (OARC)},
+  howpublished = {https://www.youtube.com/watch?v=2M6VQY\_OFvM\&ab\_channel=UCLAOfficeofAdvancedResearchComputing\%28OARC\%29},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\J8IKTP5K\\watch.html}
+}
+
+@misc{linIntroductionStructuralEquation2021,
+  type = {{{UCLA}}: {{Statistical Consulting Group}}},
+  title = {Introduction to {{Structural Equation Modeling}} ({{SEM}}) in {{R}} with Lavaan},
+  author = {Lin, Johnny},
+  year = {2021},
+  journal = {UCLA Office of Advanced Research Computing (OARC)},
+  howpublished = {https://stats.oarc.ucla.edu/r/seminars/rsem/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\34NWHQD7\\rsem.html}
+}
+
+@book{lomaxStatisticalConceptsSecond2012,
+  title = {Statistical {{Concepts}}. {{A Second Course}}.},
+  author = {Lomax, Richard G. and {Hahs-Vaughn}, Debbie L.},
+  year = {2012},
+  edition = {Fourth},
+  publisher = {{Routledge}},
+  address = {{New York}}
+}
+
+@misc{longPrincipalComponentAnalysis2010,
+  title = {Principal {{Component Analysis}} ({{PCA}}) vs {{Ordinary Least Squares}} ({{OLS}}): {{A Visual Explanation}}},
+  author = {Long, J. D.},
+  year = {2010},
+  journal = {Cerebral Mastication},
+  howpublished = {https://cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\DHTNLESS\\principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination.html}
+}
+
+@book{lovasStatistikkUniversiteterOg2013,
+  title = {Statistikk for Universiteter Og H\o gskoler},
+  author = {L{\o}v{\aa}s, Gunnar G.},
+  year = {2013},
+  edition = {Third},
+  publisher = {{Universitetsforlaget}},
+  address = {{Oslo}}
+}
+
+@article{maccallumSampleSizeFactor1999,
+  title = {Sample Size in Factor Analysis.},
+  author = {MacCallum, Robert C and Widaman, Keith F and Zhang, Shaobo and Hong, Sehee},
+  year = {1999},
+  journal = {Psychological methods},
+  volume = {4},
+  number = {1},
+  pages = {84--84},
+  publisher = {{American Psychological Association}}
+}
+
+@article{macmahonBloodPressureStroke1990,
+  title = {Blood Pressure, Stroke, and Coronary Heart Disease: {{Part}} 1, Prolonged Differences in Blood Pressure: Prospective Observational Studies Corrected for the Regression Dilution Bias},
+  author = {MacMahon, S and Peto, R and Collins, R and Godwin, J and MacMahon, S and Cutler, J and Sorlie, P and Abbott, R and Collins, R and Neaton, J and Abbott, R and Dyer, A and Stamler, J},
+  year = {1990},
+  month = mar,
+  journal = {Originally published as Volume 1, Issue 8692},
+  volume = {335},
+  number = {8692},
+  pages = {765--774},
+  issn = {0140-6736},
+  doi = {10.1016/0140-6736(90)90878-9},
+  abstract = {The associations of diastolic blood pressure (DBP) with stroke and with coronary heart disease (CHD) were investigated in nine major prospective observational studies: total 420 000 individuals, 843 strokes, and 4856 CHD events, 6-25 (mean 10) years of follow-up. The combined results demonstrate positive, continuous, and apparently independent associations, with no significant heterogeneity of effect among different studies. Within the range of DBP studied (about 70-110 mm Hg), there was no evidence of any "threshold" below which lower levels of DBP were not associated with lower risks of stroke and of CHD. Previous analyses have described the uncorrected associations of DBP measured just at "baseline" with subsequent disease rates. But, because of the diluting effects of random fluctuations in DBP, these substantially underestimate the true associations of the usual DBP (ie, an individual's long-term average DBP) with disease. After correction for this "regression dilution" bias, prolonged differences in usual DBP of 5,7{$\cdot$}5, and 10 mm Hg were respectively associated with at least 34\%, 46\%, and 56\% less stroke and at least 21\%. 29\%, and 37\% less CHD. These associations are about 60\% greater than in previous uncorrected analyses. (This regression dilution bias is quite general, so analogous corrections to the relations of cholesterol to CHD or of various other risk factors to C H D or to other diseases would likewise increase their estimated strengths.) The DBP results suggest that for the large majority of individuals, whether conventionally "hypertensive" or "normotensive", a lower blood pressure should eventually confer a lower risk of vascular disease.}
+}
+
+@article{mahalanobisGeneralisedDistanceStatistics1936,
+  title = {On the {{Generalised Distance}} in {{Statistics}}},
+  author = {Mahalanobis, P. C.},
+  year = {1936},
+  journal = {National Institute of Sciences of India}
+}
+
+@article{marcus-robertsMeaninglessStatistics1987,
+  title = {Meaningless {{Statistics}}},
+  author = {{Marcus-Roberts}, Helen M. and Roberts, Fred S.},
+  year = {1987},
+  journal = {Journal of Educational Statistics},
+  volume = {12},
+  number = {4},
+  pages = {383--394},
+  publisher = {{American Educational Research Association and American Statistical Association}},
+  issn = {03629791},
+  doi = {10.2307/1165056},
+  abstract = {We discuss the controversy over the limitations that scales of measurement impose on the statistical procedures we may apply, using the measurement-theoretic concept of meaningfulness in our analysis of these limitations.},
+  keywords = {binary variables,categorical data,contingency tables,covariance struc-,exploratory,factor analysis,item response theory,latent structure,of the procedure,tetrachoric correlations,tures}
+}
+
+@misc{mastenCausalInferenceBootcamp2015,
+  title = {Causal {{Inference Bootcamp}}},
+  author = {Masten, Matt},
+  year = {2015},
+  howpublished = {https://mattmasten.github.io/bootcamp/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\YH5AYAAF\\bootcamp.html}
+}
+
+@article{mayrShortTutorialGPower2007,
+  title = {A Short Tutorial of {{GPower}}},
+  author = {Mayr, Susanne and Erdfelder, Edgar and Buchner, Axel and Faul, Franz},
+  year = {2007},
+  journal = {Tutorials in Quantitative Methods for Psychology},
+  volume = {3},
+  number = {2},
+  pages = {51--59}
+}
+
+@article{mccraeIntroductionFiveFactorModel1992,
+  title = {An {{Introduction}} to the {{Five-Factor Model}} and {{Its Applications}}},
+  author = {McCrae, Robert R. and John, Oliver P.},
+  year = {1992},
+  month = jun,
+  journal = {Journal of Personality},
+  volume = {60},
+  number = {2},
+  pages = {175--215},
+  issn = {0022-3506, 1467-6494},
+  doi = {10.1111/j.1467-6494.1992.tb00970.x},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\42NRZND9\\McCrae og John - 1992 - An Introduction to the Five-Factor Model and Its A.pdf}
+}
+
+@incollection{mcfaddenConditionalLogitAnalysis1974,
+  title = {Conditional Logit Analysis of Qualitative Choice Behavior},
+  booktitle = {Frontiers in {{Econometrics}}},
+  author = {McFadden, D.},
+  editor = {Zarembka, P.},
+  year = {1974},
+  pages = {105--142},
+  publisher = {{Academic Press}}
+}
+
+@article{mcfaddenQuantitativeMethodsAnalyzing1977,
+  title = {Quantitative {{Methods}} for {{Analyzing Travel Behaviour}} of {{Individuals}}: {{Some Recent Developments}}},
+  author = {McFadden, D.},
+  year = {1977},
+  journal = {Cowles Foundation Discussion Papers}
+}
+
+@incollection{mcfaddenQuantitativeMethodsAnalyzing1979,
+  title = {Quantitative {{Methods}} for {{Analyzing Travel Behaviour}} on {{Individuals}}: {{Some Recent Developments}}},
+  booktitle = {Behavioural {{Travel Modelling}}},
+  author = {McFadden, D.},
+  editor = {Hensher, David and Stopher, Peter},
+  year = {1979}
+}
+
+@book{mehmetogluInnforingStatistiskeDataanalyser2020,
+  title = {Innf\o ring i {{R}} for Statistiske Dataanalyser},
+  author = {Mehmetoglu, Mehmet and Mittner, Matthias},
+  year = {2020},
+  publisher = {{Universitetsforlaget}},
+  address = {{Oslo}}
+}
+
+@book{menardAppliedLogisticRegression2002,
+  title = {Applied {{Logistic Regression Analysis}}},
+  author = {Menard, Scott},
+  year = {2002},
+  edition = {Second},
+  publisher = {{Sage Publications}},
+  address = {{Thousand Oaks}}
+}
+
+@article{michellMeasurementScalesStatistics1986,
+  title = {Measurement Scales and Statistics: {{A}} Clash of Paradigms},
+  author = {Michell, Joel},
+  year = {1986},
+  journal = {Psychological Bulletin},
+  volume = {100},
+  number = {3},
+  pages = {398--398},
+  issn = {1939-1455}
+}
+
+@book{milesApplyingRegressionCorrelation2001,
+  title = {Applying {{Regression}} \& {{Correlation}}: {{A Guide}} for {{Students}} and {{Researchers}}},
+  author = {Miles, Jeremy and Shevlin, Mark},
+  year = {2001},
+  publisher = {{Sage}},
+  address = {{London}}
+}
+
+@book{mittelhammerEconometricFoundations2000,
+  title = {Econometric {{Foundations}}},
+  author = {Mittelhammer, R. C. and Judge, G. G. and Miller, D. J.},
+  year = {2000},
+  publisher = {{Cambridge University Press}},
+  address = {{Cambridge}}
+}
+
+@misc{monroeLogisticRegression2017,
+  title = {Logistic {{Regression}}},
+  author = {Monroe, Will},
+  year = {2017},
+  journal = {Lecture Notes}
+}
+
+@article{mostellerDataAnalysisRegression1977,
+  title = {Data Analysis and Regression: A Second Course in Statistics},
+  author = {Mosteller, Frederick and Tukey, John Wilder},
+  year = {1977},
+  journal = {Addison-Wesley Series in Behavioral Science: Quantitative Methods}
+}
+
+@misc{MultinomialLogisticRegression2014,
+  title = {Multinomial {{Logistic Regression}} | {{R Data Analysis Examples}}},
+  year = {2014},
+  journal = {UCLA: Statistical Consulting Group},
+  howpublished = {https://stats.oarc.ucla.edu/r/dae/multinomial-logistic-regression/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\QX3YNCJG\\multinomial-logistic-regression.html}
+}
+
+@article{muthenComparisonMethodologiesFactor1992,
+  title = {A Comparison of Some Methodologies for the Factor Analysis of Non-Normal {{Likert}} Variables: {{A}} Note on the Size of the Model},
+  author = {Muthen, Bengt and Kaplan, David},
+  year = {1992},
+  month = may,
+  journal = {British Journal of Mathematical and Statistical Psychology},
+  volume = {45},
+  number = {1},
+  pages = {19--30},
+  doi = {10.1111/j.2044-8317.1992.tb00975.x}
+}
+
+@book{myersClassicalModernRegression1990,
+  title = {Classical and Modern Regression with Applications},
+  author = {Myers, R.},
+  year = {1990},
+  edition = {Second},
+  publisher = {{Duxbury}},
+  address = {{Boston, MA}}
+}
+
+@book{navarroLearningStatisticsJamovi2019a,
+  title = {Learning Statistics with Jamovi: A Tutorial for Psychology Students and Other Beginners.},
+  author = {Navarro, D. J. and Foxcroft, D. R:},
+  year = {2019},
+  edition = {0.70},
+  doi = {10.24384/hgc3-7p15}
+}
+
+@article{normanLikertScalesLevels2010,
+  title = {Likert Scales, Levels of Measurement and the "Laws" of Statistics},
+  author = {Norman, Geoff},
+  year = {2010},
+  journal = {Advances in Health Sciences Education},
+  volume = {15},
+  number = {5},
+  pages = {625--632},
+  issn = {1382-4996},
+  doi = {10.1007/s10459-010-9222-y},
+  abstract = {Reviewers of research reports frequently criticize the choice of statistical methods. While some of these criticisms are well-founded, frequently the use of various parametric methods such as analysis of variance, regression, correlation are faulted because: (a) the sample size is too small, (b) the data may not be normally distributed, or (c) The data are from Likert scales, which are ordinal, so parametric statistics cannot be used. In this paper, I dissect these arguments, and show that many studies, dating back to the 1930s consistently show that parametric statistics are robust with respect to violations of these assumptions. Hence, challenges like those above are unfounded, and parametric methods can be utilized without concern for "getting the wrong answer".},
+  keywords = {ANOVA,Likert,Robustness,Statistics}
+}
+
+@book{nunallyPsychometricTheory1978,
+  title = {Psychometric {{Theory}}},
+  author = {Nunally, J},
+  year = {1978},
+  edition = {Second},
+  publisher = {{McGraw-Hill}},
+  address = {{New York}}
+}
+
+@misc{OrdinalLogisticRegression,
+  title = {Ordinal {{Logistic Regression}} | {{R Data Analysis Examples}}},
+  howpublished = {https://stats.oarc.ucla.edu/r/dae/ordinal-logistic-regression/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\2H8CJDVC\\ordinal-logistic-regression.html}
+}
+
+@misc{ottoHowNormalizeRMSE2019,
+  title = {How to Normalize the {{RMSE}}},
+  author = {Otto, S. A.},
+  year = {2019},
+  abstract = {Site template made by Saskia using hugo},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\QCVD5MD8\\normalizing-the-rmse.html}
+}
+
+@article{pallantDevelopmentValidationScale2000,
+  title = {Development and {{Validation}} of a {{Scale}} to {{Measure Perceived Control}} of {{Internal States}}},
+  author = {Pallant, Julie},
+  year = {2000},
+  month = oct,
+  journal = {Journal of Personality Assessment},
+  volume = {75},
+  number = {2},
+  pages = {308--337},
+  doi = {10.1207/S15327752JPA7502_10}
+}
+
+@book{pallantSPSSSurvivalManual2010,
+  title = {{{SPSS Survival Manual}}},
+  author = {Pallant, Julie},
+  year = {2010},
+  edition = {Fourth},
+  publisher = {{McGraw-Hill}},
+  address = {{Maidenhead, England}}
+}
+
+@article{pearsonGeneralizedHampelFilters2016,
+  title = {Generalized {{Hampel Filters}}},
+  author = {Pearson, Ronald K. and Neuvo, Yrj{\"o} and Astola, Jaakko and Gabbouj, Moncef},
+  year = {2016},
+  month = dec,
+  journal = {EURASIP Journal on Advances in Signal Processing},
+  volume = {2016},
+  number = {1},
+  pages = {87},
+  issn = {1687-6180},
+  doi = {10.1186/s13634-016-0383-6},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\WED8C7QQ\\Pearson et al. - 2016 - Generalized Hampel Filters.pdf}
+}
+
+@article{pellUseMisuseLikert2005,
+  title = {Use and Misuse of {{Likert}} Scales... {{Jamieson S}}. {{Likert}} Scales: How to (Ab) Use Them. {{Med Educ}} 2004;38:1217-1218},
+  author = {Pell, G},
+  year = {2005},
+  journal = {Medical Education},
+  volume = {39},
+  number = {9},
+  pages = {970--971},
+  issn = {0308-0110},
+  keywords = {Summated Rating Scaling -- Evaluation}
+}
+
+@misc{pittardPrincipalComponentsAnalysis2012,
+  title = {Principal {{Components Analysis Using R}}},
+  author = {{Pittard}},
+  year = {2012},
+  month = feb,
+  abstract = {See my new blog at http://rollingyours.wordpress.com Get code used in this video from: https://raw.githubusercontent.com/ste... Best Viewed in Large or Full Screen Mode  Part 1 - This video tutorial guides the user through a manual principal components analysis of some simple data. The goal is to acquaint the viewer with the underlying concepts and terminology associated with the PCA process. This will be helpful when the user employs one of  the "canned" R procedures to do PCA (e.g. princomp, prcomp), which requires some knowledge of concepts such as loadings and scores.}
+}
+
+@misc{plotly3DScatterPlots2022,
+  title = {{{3D Scatter Plots}} in {{R}}},
+  author = {{plotly}},
+  year = {2022},
+  abstract = {Detailed examples of 3D Scatter Plots including changing color, size, log axes, and more in R.},
+  howpublished = {https://plotly.com/r/3d-scatter-plots/},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\IULV8BID\\3d-scatter-plots.html}
+}
+
+@article{preissTestingLevelSocial2015,
+  title = {Testing the {{Level}} of {{Social Desirability During Job Interview}} on {{White-Collar Profession}}},
+  author = {Preiss, Marek and Mejzl{\'i}kov{\'a}, Tereza and Rud{\'a}, Ad{\'e}la and Kr{\'a}msk{\'y}, David and Pit{\'a}kov{\'a}, Jindra},
+  year = {2015},
+  month = dec,
+  journal = {Frontiers in Psychology},
+  volume = {6},
+  doi = {10.3389/fpsyg.2015.01886}
+}
+
+@article{razaliPowerComparisonsShapiroWilk2011,
+  title = {Power Comparisons of {{Shapiro-Wilk}}, {{Kolmogorov-Smirnov}}, {{Lilliefors}} and {{Anderson-Darling}} Tests},
+  author = {Razali, Nornadiah Mohd and Wah, Yap Bee},
+  year = {2011},
+  journal = {Journal of Statistical Modeling and Analytics},
+  volume = {2},
+  number = {1},
+  pages = {21--33}
+}
+
+@misc{rcoreteamLanguageEnvironmentStatistical2021,
+  title = {R: {{A}} Language and Environment for Statistical Computing.},
+  author = {{R Core Team}},
+  year = {2021},
+  address = {{Vienna}},
+  howpublished = {R Foundation for Statistical   Computing}
+}
+
+@book{revelleIntroductionPsychometricTheory2016,
+  title = {An Introduction to Psychometric Theory with Applications in {{R}}},
+  author = {Revelle, W.},
+  year = {2016}
+}
+
+@book{ringdalEnhetOgMangfold2007,
+  title = {Enhet Og Mangfold: Samfunnsvitenskapelig Forskning Og Kvantitativ Metode},
+  author = {Ringdal, Kristen},
+  year = {2007},
+  pages = {502 s.},
+  publisher = {{Fagbokforl.}},
+  address = {{Bergen}},
+  isbn = {978-82-450-0569-1},
+  keywords = {analyser,design,etikk,filosofi,forfatterskap,forsking,Forsking - metoder,Forskning,forskningsdesign,forskningsetikk,forskningsprosessen,hovedoppgaver,kvalitativ,kvalitative,kvantitativ,kvantitative,Kvantitative metoder,litteratursøking,metodar,metoder,metodespørreundersøkelser,regresjonsanalyse,Research,Research Design,Samfunnsforsking,Samfunnsforskning,Samfunnsvitenskap,Samfunnsvitenskap : Forskning,Samfunnsvitenskap : Metode,samfunnsvitenskapelig,Samfunnsvitenskapelig-metode,skriving,Social Sciences,spss,statistikk,teori,vitenskap,vitenskapelig,vitenskapsfilosofi,vitenskapsteori}
+}
+
+@article{rosnerPercentagePointsGeneralized1983,
+  title = {Percentage {{Points}} for a {{Generalized ESD Many-Outlier Procedure}}},
+  author = {Rosner, Bernard},
+  year = {1983},
+  month = may,
+  journal = {Technometrics},
+  volume = {25},
+  number = {2},
+  pages = {165--172},
+  issn = {0040-1706, 1537-2723},
+  doi = {10.1080/00401706.1983.10487848},
+  langid = {english}
+}
+
+@techreport{roye.welschLinearRegressionDiagnostics1977,
+  title = {Linear {{Regression Diagnostics}}},
+  author = {Roy E. Welsch and {Kuh, Edwin}},
+  year = {1977},
+  number = {Working Paper No. 173},
+  institution = {{MIT \& NBER Computer Research Center}}
+}
+
+@misc{rstudioteamRStudioIntegratedDevelopment2022,
+  title = {{{RStudio}}: {{Integrated Development}}   {{Environment}} for {{R}}},
+  author = {{RStudio Team}},
+  year = {2022},
+  address = {{Boston}},
+  howpublished = {RStudio}
+}
+
+@book{sageLearnUseYates2019,
+  title = {Learn to {{Use Yates}}' {{Correction}} in {{R With Data From}} the {{American National Election Studies}} (2017)},
+  author = {SAGE},
+  year = {2019},
+  series = {{{SAGE Research Methods Datasets}}},
+  publisher = {{SAGE Publications}}
+}
+
+@article{samuelStudiesMachineLearning1959,
+  title = {Some {{Studies}} in {{Machine Learning Using}} the {{Game}} of {{Checkers}}},
+  author = {Samuel, A. L.},
+  year = {1959},
+  month = jul,
+  journal = {IBM Journal of Research and Development},
+  volume = {3},
+  number = {3},
+  pages = {210--229},
+  issn = {0018-8646, 0018-8646},
+  doi = {10.1147/rd.33.0210},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\79I7RHWK\\Samuel - 1959 - Some Studies in Machine Learning Using the Game of.pdf}
+}
+
+@article{savageNonparametricStatistics1957,
+  title = {Nonparametric {{Statistics}}},
+  author = {Savage, I Richard},
+  year = {1957},
+  month = sep,
+  journal = {Journal of the American Statistical Association},
+  volume = {52},
+  number = {279},
+  pages = {331--331},
+  issn = {0162-1459},
+  doi = {10.2307/2280903}
+}
+
+@article{schmidtRelativeEfficiencyRegression1971,
+  title = {The {{Relative Efficiency}} of {{Regression}} and {{Simple Unit Predictor Weights}} in {{Applied Differential Psychology}}},
+  author = {Schmidt, Frank L.},
+  year = {1971},
+  month = oct,
+  journal = {Educational and Psychological Measurement},
+  volume = {31},
+  number = {3},
+  pages = {699--714},
+  publisher = {{SAGE Publications Inc}},
+  doi = {10.1177/001316447103100310}
+}
+
+@book{singerAppliedLongitudinalData2003,
+  title = {Applied {{Longitudinal Data Analysis}}. {{Modeling Change}} and {{Event Occurence}}.},
+  author = {Singer, Judith D. and Willett, John B.},
+  year = {2003},
+  publisher = {{Oxford University Press}},
+  address = {{Oxford}}
+}
+
+@article{smithComparisonLogisticRegression2013,
+  title = {A {{Comparison}} of {{Logistic Regression Pseudo R}}\^2 {{Indices}}},
+  author = {Smith, Thomas J. and McKenna, Cornelius M.},
+  year = {2013},
+  journal = {Multiple Linear Regression Viewpoints},
+  volume = {39},
+  number = {2},
+  pages = {17--26}
+}
+
+@techreport{smithTutorialPrincipalComponents2002,
+  title = {A Tutorial on {{Principal Components Analysis}}},
+  author = {Smith, Lindsay I.},
+  year = {2002},
+  address = {{Otago}}
+}
+
+@article{stanleyReproducibleTablesPsychology2018,
+  title = {Reproducible {{Tables}} in {{Psychology Using}} the {{apaTables Package}}},
+  author = {Stanley, David J. and Spence, Jeffrey R.},
+  year = {2018},
+  journal = {Advances in Methods and Practices in Psychological Science},
+  volume = {1},
+  number = {3},
+  pages = {415--431},
+  doi = {10.1177/2F2515245918773743}
+}
+
+@misc{starmerLogisticRegressionDetails2018,
+  title = {Logistic {{Regression Details Pt}} 2: {{Maximum Likelihood}}},
+  shorttitle = {Logistic {{Regression Details Pt}} 2},
+  author = {Starmer, Josh},
+  year = {2018},
+  month = jun,
+  abstract = {This video follows from where we left off in Part 1 in this series on the details of Logistic Regression. This time we're going to talk about how the squiggly line is optimized to best fit the data. NOTE: This StatQuest assumes that you are already familiar with Part 1 in this series, Logistic Regression Details Pt1: Coefficients: https://youtu.be/vN5cNN2-HWE For a complete index of all the StatQuest videos, check out: https://statquest.org/video-index/ If you'd like to support StatQuest, please consider... Buying The StatQuest Illustrated Guide to Machine Learning!!! PDF - https://statquest.gumroad.com/l/wvtmc Paperback - https://www.amazon.com/dp/B09ZCKR4H6 Kindle eBook - https://www.amazon.com/dp/B09ZG79HXC Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/UCtYL... ...a cool StatQuest t-shirt or sweatshirt:  shop.spreadshirt.com/statquest-with-j... ...buying one or two of my songs (or go large and get a whole album!) https://joshuastarmer.bandcamp.com/ ...or just donating to StatQuest! https://www.paypal.me/statquest Lastly, if you want to keep up with me as I research and create new StatQuests, follow me on twitter: https://twitter.com/joshuastarmer \#statquest \#logistic \#MLE}
+}
+
+@misc{starmerStatQuestPrincipalComponent2018,
+  title = {{{StatQuest}}: {{Principal Component Analysis}} ({{PCA}}), {{Step-by-Step}}},
+  shorttitle = {{{StatQuest}}},
+  author = {Starmer, Josh},
+  year = {2018},
+  month = apr
+}
+
+@misc{statistaTotalDataVolume2022,
+  title = {Total Data Volume Worldwide 2010-2025},
+  author = {Statista},
+  year = {2022},
+  journal = {Statista},
+  abstract = {The total amount of data created, captured, copied, and consumed globally is forecast to increase rapidly, reaching 64.2 zettabytes in 2020.},
+  howpublished = {https://www.statista.com/statistics/871513/worldwide-data-created/},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\PE4XNVXL\\worldwide-data-created.html}
+}
+
+@misc{statisticssolutionsAssumptionHomogeneityVariance2013,
+  title = {The {{Assumption}} of {{Homogeneity}} of {{Variance}}},
+  author = {Statistics Solutions},
+  year = {2013},
+  month = feb,
+  journal = {Statistics Solutions},
+  abstract = {The assumption of homogeneity of variance is an assumption of the ANOVA that assumes that all groups have the same or similar variance.},
+  howpublished = {https://www.statisticssolutions.com/the-assumption-of-homogeneity-of-variance/},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\RQHW2ATS\\the-assumption-of-homogeneity-of-variance.html}
+}
+
+@book{stevensAppliedMultivariateStatistics1996,
+  title = {Applied Multivariate Statistics for the Social Sciences},
+  author = {Stevens, J. P.},
+  year = {1996},
+  edition = {Third},
+  publisher = {{Lawrence Erlbaum}},
+  address = {{Mahwah, NJ}}
+}
+
+@book{stevensAppliedMultivariateStatistics2002,
+  title = {Applied {{Multivariate Statistics}} for the {{Social Sciences}}},
+  author = {Stevens, J. P.},
+  editor = {{5}},
+  year = {2002},
+  publisher = {{Routledge}}
+}
+
+@book{stevensHandbookExperimentalPsychology1966,
+  title = {Handbook of {{Experimental Psychology}}},
+  author = {Stevens, S S},
+  year = {1966},
+  publisher = {{John Wiley}},
+  address = {{New York}}
+}
+
+@article{stevensTheoryScalesMeasurement1946,
+  title = {On the Theory of Scales of Measurement},
+  author = {Stevens, S S},
+  year = {1946},
+  pages = {677--680},
+  publisher = {{Bobbs-Merrill, College Division}}
+}
+
+@article{stockWhoInventedInstrumental2003a,
+  title = {Who {{Invented Instrumental Variable Regression}}?},
+  author = {Stock, James H. and Trebbi, Francesco},
+  year = {2003},
+  journal = {Journal of Economic Perspectives},
+  volume = {17},
+  number = {3},
+  pages = {177--194}
+}
+
+@inproceedings{suhrExploratoryConfirmatoryFactor2006,
+  title = {Exploratory or {{Confirmatory Factor Analysis}}?},
+  booktitle = {Paper {{Number}}: 200-31},
+  author = {Suhr, Diana D.},
+  year = {2006},
+  publisher = {{SAS Institute Inc}},
+  address = {{Cary, NC}}
+}
+
+@misc{superdatascienceMachineLearningAZ2022,
+  title = {Machine {{Learning A-Z}}({{TM}}): {{Hands-On Python}} \& {{R In Data Science}}},
+  author = {SuperDataScience},
+  year = {2022},
+  journal = {SuperDataScience},
+  abstract = {Welcome to the SuperDataScience pricing page. We want to Make The Complex Simple. SuperDataScience is an online educational platform for current and future Data Scientists from all around the world. We believe learning such an immensely valuable topic requires a dynamic, deep and fun approach, available to anyone willing to learn.},
+  howpublished = {https://www.superdatascience.com/},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\7CE7AFXE\\www.superdatascience.com.html}
+}
+
+@misc{szczesnaPrincipalComponentAnalysis2022,
+  title = {Principal {{Component Analysis}} ({{PCA}})},
+  author = {Szcz{\k{e}}sna, Karolina},
+  year = {2022},
+  journal = {RPubs},
+  howpublished = {https://rpubs.com/KarolinaSzczesna/862710},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\WUSJP2ME\\862710.html}
+}
+
+@book{tabachnikUsingMultivariateStatistics2007,
+  title = {Using Multivariate Statistics},
+  author = {Tabachnik, B G and Fidell, L S},
+  year = {2007},
+  edition = {Fifth},
+  publisher = {{Pearson Education}},
+  address = {{Boston}}
+}
+
+@article{thomasAdditiveAssumptionMultiple2017,
+  title = {Additive {{Assumption}} and {{Multiple Regression}}},
+  author = {Thomas, Darrin},
+  year = {2017},
+  month = nov,
+  journal = {Educational Research Technique}
+}
+
+@article{thoresenMalefeilRegresjonsanalyse2003,
+  title = {M\aa lefeil i Regresjonsanalyse},
+  author = {Thoresen, Magne},
+  year = {2003},
+  journal = {Norsk Epidemiologi},
+  volume = {13},
+  number = {2},
+  pages = {257--263}
+}
+
+@book{thraneAppliedRegressionAnalysis2019,
+  title = {Applied {{Regression Analysis}}. {{Doing}}, {{Interpreting}} and {{Reporting}}},
+  author = {Thrane, Christer},
+  year = {2019},
+  publisher = {{Routledge}},
+  address = {{London}}
+}
+
+@book{thraneRegresjonsanalysePraktiskTilnaerming2017,
+  title = {Regresjonsanalyse. {{En}} Praktisk Tiln\ae rming.},
+  author = {Thrane, Christer},
+  year = {2017},
+  publisher = {{Cappelen Damm Akademisk}},
+  address = {{Oslo}}
+}
+
+@article{tinsleyUsesFactorAnalysis1987,
+  title = {Uses of Factor Analysis in Counseling Psychology Research.},
+  author = {Tinsley, Howard E. A. and Tinsley, Diane J.},
+  year = {1987},
+  month = oct,
+  journal = {Journal of Counseling Psychology},
+  volume = {34},
+  number = {4},
+  pages = {414--424},
+  issn = {1939-2168, 0022-0167},
+  doi = {10.1037/0022-0167.34.4.414},
+  langid = {english}
+}
+
+@book{tukeyExploratoryDataAnalysis1977,
+  title = {Exploratory {{Data Analysis}}},
+  author = {Tukey, John Wilder},
+  year = {1977},
+  publisher = {{Addison-Wesley}},
+  address = {{Reading, MA}}
+}
+
+@book{uboeStatistikkOkonomifag2014,
+  title = {Statistikk for \O konomifag},
+  author = {Ub{\o}e, Jan},
+  year = {2014},
+  edition = {Fourth},
+  publisher = {{Gyldendal Akademisk}},
+  address = {{Oslo}}
+}
+
+@article{unkelSimultaneousParameterEstimation2010,
+  title = {Simultaneous {{Parameter Estimation}} in {{Exploratory Factor Analysis}}: {{An Expository Review}}: {{Simultaneous Parameter Estimation}} in {{EFA}}},
+  shorttitle = {Simultaneous {{Parameter Estimation}} in {{Exploratory Factor Analysis}}},
+  author = {Unkel, Steffen and Trendafilov, Nickolay T.},
+  year = {2010},
+  month = dec,
+  journal = {International Statistical Review},
+  volume = {78},
+  number = {3},
+  pages = {363--382},
+  issn = {03067734},
+  doi = {10.1111/j.1751-5823.2010.00120.x},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\SHQHH5WI\\Unkel og Trendafilov - 2010 - Simultaneous Parameter Estimation in Exploratory F.pdf}
+}
+
+@article{uzukeIdentifyingInfluentialObservations2021,
+  title = {On {{Identifying Influential Observations}} in the {{Presence}} of {{Multicollinearity}}},
+  author = {Uzuke, Chinwendu Alice and Ezeilo, Ifeyinwa Christiana},
+  year = {2021},
+  journal = {Open Journal of Statistics},
+  volume = {11},
+  number = {02},
+  pages = {290--302},
+  issn = {2161-718X, 2161-7198},
+  doi = {10.4236/ojs.2021.112016},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\9FWH4ATI\\Uzuke og Ezeilo - 2021 - On Identifying Influential Observations in the Pre.pdf}
+}
+
+@article{vandenbergStepwiseRegressionSPSS2018,
+  title = {Stepwise {{Regression}} in {{SPSS}}},
+  author = {{van den Berg}, Ruben Geert},
+  year = {2018},
+  journal = {SPSS Tutorials}
+}
+
+@article{vanderlakenCreatePublicationreadyCorrelation2020,
+  title = {Create a Publication-Ready Correlation Matrix, with Significance Levels, in {{R}}},
+  author = {{van der Laken}, Paul},
+  year = {2020},
+  journal = {R-bloggers}
+}
+
+@article{vanhoveWhatDataPatterns2018,
+  title = {What Data Patterns Can Lie behind a Correlation Coefficient?},
+  author = {Vanhove, Jan},
+  year = {2018}
+}
+
+@misc{varianHalVarianExplains2009,
+  title = {Hal {{Varian}} Explains Why Statisticians Will Be the Sexiest Job in the next Decade (3)},
+  author = {{Varian}},
+  year = {2009},
+  month = sep,
+  abstract = {Hal}
+}
+
+@misc{vyasUnderstandingLogisticRegression2020,
+  title = {Understanding {{Logistic Regression}}},
+  author = {Vyas, Anuj},
+  year = {2020},
+  month = sep,
+  journal = {Analytics Vidhya},
+  abstract = {Understanding underlying mathematical and statistical principles of the logistic regression algorithm.},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\XAV68ELC\\understanding-logistic-regression-in-depth-intuition-99ad14724464.html}
+}
+
+@article{watkinsExploratoryFactorAnalysis2018,
+  title = {Exploratory {{Factor Analysis}}: {{A Guide}} to {{Best Practice}}},
+  shorttitle = {Exploratory {{Factor Analysis}}},
+  author = {Watkins, Marley W.},
+  year = {2018},
+  month = apr,
+  journal = {Journal of Black Psychology},
+  volume = {44},
+  number = {3},
+  pages = {219--246},
+  issn = {0095-7984, 1552-4558},
+  doi = {10.1177/0095798418771807},
+  abstract = {Exploratory factor analysis (EFA) is a multivariate statistical method that has become a fundamental tool in the development and validation of psychological theories and measurements. However, researchers must make several thoughtful and evidence-based methodological decisions while conducting an EFA, and there are a number of options available at each decision point, some better than others. Reviews of the professional literature have consistently found that many applications of EFA are marked by an injudicious choice of methods and incomplete reports. This article provides a systematic, evidence-based guide to the conduct of EFA studies that can be followed by researchers with modest statistical training, supplemented with an example to illustrate its application.},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\4PY9V24V\\Watkins - 2018 - Exploratory Factor Analysis A Guide to Best Pract.pdf}
+}
+
+@techreport{welschLinearRegressionDiagnostics1977,
+  title = {Linear {{Regression Diagnostics}}},
+  author = {Welsch, Roy and Kuh, Edwin},
+  year = {1977},
+  month = mar,
+  number = {w0173},
+  pages = {w0173},
+  address = {{Cambridge, MA}},
+  institution = {{National Bureau of Economic Research}},
+  doi = {10.3386/w0173},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\59UKYBIE\\Welsch og Kuh - 1977 - Linear Regression Diagnostics.pdf}
+}
+
+@article{wikipediaZettabyte2021,
+  title = {{Zettabyte}},
+  author = {Wikipedia},
+  year = {2021},
+  month = jan,
+  journal = {Wikipedia},
+  abstract = {En zettabyte (utledet fra SI-prefikset zetta-) er en informasjonsst\o rrelse lik en trilliard byte.  St\o rrelsen forkortes vanligvis ZB. P\aa{} grunn av uregelmessigheter ved bruk av bin\ae rprefikser i definisjon og bruk, kan det eksakte tallet i vanlig bruk enten v\ae re et av de to f\o lgende: 1 000 000 000 000 000 000 000 bytes \textendash{} 10007 eller 1021. 1 180 591 620 717 411 303 424 bytes \textendash{} 10247 eller 270.P\aa{} grunn av disse uregelmessighetene er det foresl\aa tt at begrepet \guillemotleft zebibyte\guillemotright{} brukes som en utvetydig referanse til den siste verdien.},
+  copyright = {Creative Commons Attribution-ShareAlike License},
+  langid = {norwegianbokmal},
+  annotation = {Page Version ID: 21075918},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\PKS8AX97\\Zettabyte.html}
+}
+
+@article{wilkinsonStatisticalMethodsPsychology1999,
+  title = {Statistical {{Methods}} in {{Psychology Journals}}. {{Guidelines}} and {{Explanations}}},
+  author = {Wilkinson, Leyland and {the Task Force on Statistical Inference}},
+  year = {1999},
+  journal = {American Psychologist},
+  number = {August},
+  pages = {594--604}
+}
+
+@article{wilsonvanvoorhisUnderstandingPowerRules2007,
+  title = {Understanding {{Power}} and {{Rules}} of {{Thumb}} for {{Determining Sample Sizes}}},
+  author = {Wilson Van Voorhis, Carmen R. and Morgan, Betsy L.},
+  year = {2007},
+  month = sep,
+  journal = {Tutorials in Quantitative Methods for Psychology},
+  volume = {3},
+  number = {2},
+  pages = {43--50},
+  issn = {1913-4126},
+  doi = {10.20982/tqmp.03.2.p043},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\HGENL49Z\\Wilson Van Voorhis og Morgan - 2007 - Understanding Power and Rules of Thumb for Determi.pdf}
+}
+
+@book{wooldridgeEconometricAnalysisCross2002,
+  title = {Econometric {{Analysis}} of {{Cross Section}} and {{Panel Data}}},
+  author = {Wooldridge, Jeffrey M},
+  editor = {Cambridge, M A},
+  year = {2002},
+  series = {Booksgooglecom},
+  volume = {58},
+  pages = {752},
+  publisher = {{MIT Press}},
+  doi = {10.1515/humr.2003.021},
+  abstract = {This graduate text provides an intuitive but rigorous treatment of contemporary methods used in microeconometric research. The book makes clear that applied microeconometrics is about the estimation of marginal and treatment effects, and that parametric estimation is simply a means to this end. It also clarifies the distinction between causality and statistical association.The book focuses specifically on cross section and panel data methods. Population assumptions are stated separately from sampling assumptions, leading to simple statements as well as to important insights. The unified approach to linear and nonlinear models and to cross section and panel data enables straightforward coverage of more advanced methods. The numerous end-of-chapter problems are an important component of the book. Some problems contain important points not fully described in the text, and others cover new ideas that can be analyzed using tools presented in the current and previous chapters. Several problems require the use of the data sets located at the author's website.},
+  isbn = {0-262-23219-7}
+}
+
+@book{wooldridgeIntroductoryEconometricsModern2016,
+  title = {Introductory {{Econometrics}}. {{A Modern Approach}}},
+  author = {Wooldridge, Jeffrey M.},
+  year = {2016},
+  edition = {Sixth},
+  publisher = {{Cengage Learning}},
+  address = {{Boston}}
+}
+
+@article{yarkoniChoosingPredictionExplanation2017,
+  title = {Choosing {{Prediction Over Explanation}} in {{Psychology}}: {{Lessons From Machine Learning}}},
+  shorttitle = {Choosing {{Prediction Over Explanation}} in {{Psychology}}},
+  author = {Yarkoni, Tal and Westfall, Jacob},
+  year = {2017},
+  month = nov,
+  journal = {Perspectives on Psychological Science},
+  volume = {12},
+  number = {6},
+  pages = {1100--1122},
+  issn = {1745-6916, 1745-6924},
+  doi = {10.1177/1745691617693393},
+  abstract = {Psychology has historically been concerned, first and foremost, with explaining the causal mechanisms that give rise to behavior. Randomized, tightly controlled experiments are enshrined as the gold standard of psychological research, and there are endless investigations of the various mediating and moderating variables that govern various behaviors. We argue that psychology's near-total focus on explaining the causes of behavior has led much of the field to be populated by research programs that provide intricate theories of psychological mechanism but that have little (or unknown) ability to predict future behaviors with any appreciable accuracy. We propose that principles and techniques from the field of machine learning can help psychology become a more predictive science. We review some of the fundamental concepts and tools of machine learning and point out examples where these concepts have been used to conduct interesting and important psychological research that focuses on predictive research questions. We suggest that an increased focus on prediction, rather than explanation, can ultimately lead us to greater understanding of behavior.},
+  langid = {english},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\JDVXV2Q4\\Yarkoni og Westfall - 2017 - Choosing Prediction Over Explanation in Psychology.pdf}
+}
+
+@misc{zachHowIdentifyInfluential2019,
+  title = {How to {{Identify Influential Data Points Using Cook}}'s {{Distance}}},
+  author = {Zach},
+  year = {2019},
+  month = may,
+  journal = {Statology},
+  abstract = {This tutorial explains how to identify influential data points in regression analysis by using Cook's Distance.},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\3BHJ34VC\\how-to-identify-influential-data-points-using-cooks-distance.html}
+}
+
+@misc{zachPolynomialRegressionStepbyStep2019,
+  title = {Polynomial {{Regression}} in {{R}} ({{Step-by-Step}})},
+  author = {Zach},
+  year = {2019},
+  month = mar,
+  journal = {Statology},
+  abstract = {This tutorial provides a simple guide to understanding and implementing polynomial regression in R, including an example.},
+  langid = {american},
+  file = {C\:\\Users\\nilsk\\Zotero\\storage\\86W5NXE6\\polynomial-regression-r.html}
+}
+
+@techreport{zotero-undefined,
+  type = {Techreport}
+}
+
+@article{zotero-undefineda,
+  type = {Article}
+}
+
+
