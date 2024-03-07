@@ -1,1 +1,23 @@
-# Introduction
+# Introduksjon {.unnumbered}
+
+Denne boka gir en introduksjon til anvendt kvantitativ analyse rettet mot samfunnsvitenskapene.Hensikten er å gi leseren både teoretisk bakgrunn og praktisk anvendelse av kvantitative analyseteknikker, med fokus på praktisk anvendelse.
+
+Innholdet er under utvikling og oppdateres jevnlig om enn noe uregelmessig. Tilbakemeldinger og innspill bes gitt til [Nils Kvilvang](mailto:nils.kvilvang@inn.no).
+
+![Bilde: Gjengitt uten kreditering et stort antall steder, men i @gleitmanPsychology2011, s.28, fig. 1.8 er illustrasjonen signert Chase](Doubleblind.png){width="80%"}
+
+## Versjoner {.unnumbered}
+
+```{r echo = FALSE}
+
+pacman::p_load(htmlTable, tidyverse, kableExtra)
+
+versjon <- data.frame(Dato = c("26.feb 2024"),
+                            Endring = c("Grunnversjon"))
+
+kbl(versjon) %>%
+  kable_classic(full_width = F, html_font = "Cambria", font_size = 12) %>%
+  column_spec(1, width = "8em") %>%
+  column_spec(2, width = "40em")
+
+```
